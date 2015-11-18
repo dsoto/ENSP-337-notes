@@ -1,5 +1,7 @@
 # Computation Fundamentals
 
+This borrows heavily from the UC Berkeley ERG Toolkits.
+
 ## Performing computations
 
 While we want to develop our intuition when we are estimating with large
@@ -7,8 +9,117 @@ numbers, performing accurate calculations is also important.  You will
 be able to calculate these numbers on a hand-held calculator, in Excel,
 and using scientific computing platforms like Python or Julia.
 
+# SageMathCloud
+
+- sign up at sage math cloud
+    - here is a nested list
+- create notebook
+- choose julia kernel
+- find my publicly shared file and fill in
+- print PDF and turn in during class
+- markdown vs code cells
+- naming variables
+- shift enter to execute
+- show them LaTeX
+
+
+- create account
+- create project
+- create file jupyter notebook
+- change kernel in kernel menu to Python 3 or Julia (not python 2)
+- SHIFT-ENTER to evaluate your code
+- up arrow moves between cells
+- download as pdf
+
+# Performing computations
+
+While we want to develop our intuition when we are estimating with large
+numbers, performing accurate calculations is also important.  You will
+be able to calculate these numbers on a hand-held calculator, in Excel,
+and using scientific computing platforms like Python or Julia.
+
+Since our calculations are often used as evidence to support an
+argument, they must be easy to read and have clear methods and
+assumptions.  Using a computer to preserve the details of the
+calculation is often preferable to using a calculator.
+
+## Basic computations
+
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- Division (/)
+- Exponentiation (^ or **)
+
+To perform basic calculations with numbers, we can type numbers into the
+computer and use the symbols above to perform the calculation.
+
+## Variables
+
+To make the details of a computation more clear, we can use readable
+names for our numbers and then use the names in the calculation.
+
+    power = 100
+    time = 30
+    energy = power * time
+
+This makes the intention of the calculation more clear to the reader.
+
+## Scientific Notation
+
+$$6 \cdot 10^3$$ is entered as ``6E3``.
+
+## Units
+
+Computation of physical quantities often relies on the human to define
+and use a consistent set of units of measurement.  There are tools that
+allow us to add physical quantities to our calculations, but they are
+not as rich as I could like them to be.  One good practice is to
+explicitly include the unit name in the variable name.
+
+    power_watt = 100
+    time_sec = 30
+    energy_joule = power_watt * time_sec
+
+<!-- excel has custom formats for units? -->
+
+## Defining Functions
+
+A custom function can be created and used.  The syntax for this often
+varies but the idea is usually the same.
+
+    m = 1
+    b = 10
+    f(x) = m * x + b
+    f(5) => 15
+
+
+
+
+# Google Docs
+
+- be sure you have access to your new sonoma.edu drive account
+- access the template file that I shared
+- fill in the different values and sheets
+
+# Pandas
+- assumes mastery of single variables
+- now we do vector calculations (numpy or pandas?)
+- to do TMY calculation we need to take difference and plot
+- then we need to add up only the positive values
+
 ## Scientific Notation
 - Allows us to compactly write very large or very small numbers
+
+# Orders of magnitude
+- Powers of ten
+- Place value representation
+- Operating on numbers with scientific notation
+
+# Representing large numbers
+- On paper
+- On a calculator
+- On a computer
 
 ## A very large number
 - Avogadro's Number
@@ -66,6 +177,23 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 - Calculate estimate
 - Evaluate for feasibility
 
+## Variables
+- single values
+- math expressions with variables
+- sympy creation of math expressions?
+- arrays
+- linspace?
+- treating an array like a variable
+- data frames (groups of arrays)
+- first use of conditionals (only add up positives or negatives)
+- fancy indexing to get positives or negatives
+
+<!--
+i need to make ipython notebooks that take students through this
+-->
+
+# Worked Exercises
+
 ## Exercise
 - Estimate the yearly use of gasoline in the US
 - What is our strategy?
@@ -73,5 +201,7 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 ## Exercise
 - How many gallons do you consume?
 - How many persons in the US?
+
+# Problems
 
 
