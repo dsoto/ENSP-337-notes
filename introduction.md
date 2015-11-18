@@ -20,3 +20,21 @@ investment by a company or a home-owner.  In order for this analysis to
 be convincing, the details and method of the calculation must be clear.
 You will learn how to document your calculations so that they are
 comprehensible to others.
+
+# Reading
+- Hewett, Conceptual Physics
+- Masters, Blue Book
+
+# Thermal Energy
+- Energy is used to warm or cool everywhere in our society
+    - living spaces
+    - water
+    - cooking
+    - refrigeration
+- In this class, you will learn the fundamentals of how our society uses
+    energy to make things the desired temperature.
+- We will study how physics, finance, and policies shape our energy
+    system.
+
+
+

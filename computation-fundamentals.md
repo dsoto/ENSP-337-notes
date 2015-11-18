@@ -81,7 +81,14 @@ explicitly include the unit name in the variable name.
     time_sec = 30
     energy_joule = power_watt * time_sec
 
-<!-- excel has custom formats for units? -->
+
+
+## Units
+
+There are also computer libraries that allow you to include units in the
+definition of your variables.
+
+- Pint python library
 
 ## Defining Functions
 
