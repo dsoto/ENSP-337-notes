@@ -1,13 +1,14 @@
 # Physics Fundamentals
 
-# Learning Objectives
-
 # Questions
 
 
 # Reading
 - Hewitt, Conceptual Physics 13-16
 - Incropera?
+
+# Basic Concepts
+
 
 ## Energy Units
 - Joule
@@ -60,148 +61,6 @@
 - specific heat capacity
 - drop a hot metal in water
 
-# Combustion
-
-## Combustion
-- Enthalpy
-- High and low heating value
-- Carbon Intensity
-- Heaters and Stoves
-- Cost per joule for gas, heating oil, electricity
-
-## Conduction
-- Heat transfer rates
-- U value, R value
-- Slab conduction
-- Parallel values conduction
-- Insulation, framing stuff
-- Heat transfer by conduction
-
-## Convection
-- Heat capacity of air
-- Infiltration
-- Heat transfer by convection
-
-## Radiation
-- Blackbody
-- Wein's law
-- Emissivity
-- Absorptivity
-- Reflectivity
-- Solar collectors
-- Windows
-- Heat transfer by radiation
-
-## Phase changes
-- latent heat storage
-- wax insulation
-- phase change
-- evaporation
-- condensation
-- freezing
-- melting
-- ice storage
-
-## Zeroth Law of Thermodynamics
-
-## First Law of Thermodynamics
-- furnaces
-
-## Second Law of Thermodynamics
-- Entropy
-- heat pumps
-- refrigerators
-
-
-
-
-
-
-
-
-## Methane Combustion
-
-- Methane + Oxygen -> Carbon Dioxide + Water + Energy
-- CH~4~ + 2O~2~ -> CO~2~ + 2H~2~O
-
-## Moles
-
-- One mole is 6.02 $\times 10^{23}$ molecules (or atoms) of a substance
-
-##
-
-| Material | Mass of one Mole (grams) |
-| -        | -                        |
-| Carbon   | 12                       |
-| Oxygen   | 16                       |
-| Hydrogen | 1                        |
-
-
-## Mole Conversion
-
-- One mole of methane burned equals one mole of CO~2~ released
-- Conversion factor:
-$$\frac{\textrm{1 mole carbon dioxide
-    released}}{\textrm{1 mole methane burned}}$$
-
-
-## Mass Conversion
-
-- We need to know the masses of these to make a conversion factor for
-    mass of carbon dioxide released to mass of methane burned
-- What is the mass of one mole of methane?
-- 12 grams per oxygen atom + 4 mole hydrogen * 1 gram per hydrogen mole = 16 grams
-- What is the mass of carbon dioxide?
-- 12 + 2 * 16 = 44 grams per mole
-
-## Mass Conversion
-
-- 16g CH~4~ + 64g 2O~2~ -> 44g CO~2~ + 36g 2H~2~O
-
-## Enthalpy of Formation
-
-| Substance      | Enthalpy (kJ/mol) |
-| -              | -                 |
-| Oxygen gas     | 0                 |
-| Liquid water   | -285.8            |
-| Water Vapor    | -241.8            |
-| Methane        | -74.9             |
-| Carbon Dioxide | -393.5            |
-
-## Energy Released
-
-- Change in enthalpy is the sum of products minus the sum of reactants
-- -393.5 + 2 * -241.8 - (-74.9 + 2 * 0) = -802.2 kJ/mol CH~4~ burned
-- This yields 50.1 kJ per gram
-- Compare to the published value
-
-## Carbon Tax
-
-- currently about 13 USD/tonne CO2 equivalent
-- How much would this change the cost of one therm of natural gas?
-
-## Caveat
-
-- Some carbon dioxide emissions are listed as the mass of carbon
-- Others are listed as the mass of carbon dioxide
-- You can always convert between the two using the molecular weight
-    ratio (44/12)
-
-### Assumptions
-
-- 100 cubic feet per therm
-- 0.8 kg per cubic meter density of natural gas
-- about $1 per therm
-
-
-## Carbon Tax Calculation
-
-    100 ft^3 * (1 m/3.3 ft)^3
-             * 0.8 kg CH4/m^3
-             * 44 kg CO2 / 16 kg CH4
-             * 0.012 USD/kg CO2 => $0.0735
-
-
 # Conduction
 
 ## Concepts
@@ -243,8 +102,8 @@ $$ Q = U A \Delta T $$
 - $A$ dimension of area
 - $T$ dimension of temperature
 
-##
-![](../figures/conductivity-incropera.png)
+## Conductivity
+![](./figures/conductivity-incropera.png)
 
 ## R value and U value
 
@@ -252,14 +111,14 @@ $$ Q = U A \Delta T $$
 - Sometimes published as a U-value
 
 
-##
-![](../figures/conduction-diagram-1.jpg)
+## Conduction
+![](./figures/conduction-diagram-1.jpg)
 
-##
-![](../figures/conduction-diagram-2.png)
+## Conduction
+![](./figures/conduction-diagram-2.png)
 
-##
-![](../figures/conduction-diagram-3.png)
+## Conduction
+![](./figures/conduction-diagram-3.png)
 
 ## Units
 
@@ -338,14 +197,6 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
 
 # Convection
 
-# Lecture 11, Convection
-
-## ENSP 337, Lecture 11, Convection
-
-**Professor Daniel Soto, Sonoma State University**
-
-**02 Sep 2015**
-
 ## Learning Objectives
 - Describe the mechanism of free convection
 - Able to use buoyancy to describe stack effect and convection currents
@@ -367,46 +218,26 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
 <!-- did we underestimate R effect last time -->
 
 ## Stack Effect
-![](../figures/stack-effect-EFS.pdf)
+![](./figures/stack-effect-EFS.pdf)
 
-##
-![](../figures/wind-infiltration-EFS.pdf)
+## Wind Infiltration
+![](./figures/wind-infiltration-EFS.pdf)
 
 ## Heat capacity of infiltration
-![](../figures/infiltration-equation-EFS.pdf)
+![](./figures/infiltration-equation-EFS.pdf)
 
-##
-![](../figures/home-heat-loss-EFS.pdf)
-
-
-
-## Learning Objectives
-- Perform convection calculations
-
-<!-- create examples that build intuition -->
-
-
-
-##
-![](../figures/window-rcv.png)
-
-##
-![](../figures/window-temps.png)
-
-
-
-
-
+## Heat Loss
+![](./figures/home-heat-loss-EFS.pdf)
 
 
 ## Learning Objectives
 - Perform convection calculations
 
 ## Temperature profile with air films
-![](../figures/window-rcv.png)
+![](./figures/window-rcv.png)
 
-##
-![](../figures/window-temps.png)
+## Window Temperatures
+![](./figures/window-temps.png)
 
 ## R-values
 
@@ -436,8 +267,8 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
 - 3/16 inch thick glass
 - k = 5.5 BTU-in/hr-sqft-F
 
-##
-![](../figures/multiple-resistances.png)
+## Multiple Resistances
+![](./figures/multiple-resistances.png)
 
 
 
@@ -490,19 +321,19 @@ $$ P = A \epsilon \sigma T^4 $$
 The emissivity is how much radiant power is emitted by a substance relative to
 an ideal black-body emitter.
 
-##
-![](../figures/Emissive_Power.png)
+## Emissive Power
+![](./figures/Emissive_Power.png)
 
 <!-- how much power does a 40cm block of ice emit? -->
 
-##
-![](../figures/emissivities-incropera.png)
+## Emissivities
+![](./figures/emissivities-incropera.png)
 
-##
-![](../figures/spectrum-incropera.png)
+## Spectrum
+![](./figures/spectrum-incropera.png)
 
-##
-![](../figures/electromagnetic-spectrum.jpg)
+## Spectrum
+![](./figures/electromagnetic-spectrum.jpg)
 
 
 
@@ -511,16 +342,16 @@ an ideal black-body emitter.
 $$ P = \epsilon \sigma A (T_1^4 - T_2^4) $$
 
 ## Cylindrical Insulator
-![](../figures/cylindrical-resistance.png)
+![](./figures/cylindrical-resistance.png)
 
 ## Spherical Insulator
-![](../figures/spherical-resistance.png)
+![](./figures/spherical-resistance.png)
 
 ## Radiation transfer between surfaces
 - Why is it colder on clear nights?
 
 ## Radiation transfer between surfaces
-![](../figures/radiation-transfer.png)
+![](./figures/radiation-transfer.png)
 
 ## Latent heat of fusion
 - How much energy does it take to freeze a gram of water?
@@ -546,5 +377,254 @@ $$ P = \epsilon \sigma A (T_1^4 - T_2^4) $$
 - Planck Distribution
 - Planck Law
 - Net Radiative heat transfer
+
+
+# Combustion
+
+## Combustion
+- Enthalpy
+- High and low heating value
+- Carbon Intensity
+- Heaters and Stoves
+- Cost per joule for gas, heating oil, electricity
+
+## Conduction
+- Heat transfer rates
+- U value, R value
+- Slab conduction
+- Parallel values conduction
+- Insulation, framing stuff
+- Heat transfer by conduction
+
+## Convection
+- Heat capacity of air
+- Infiltration
+- Heat transfer by convection
+
+## Radiation
+- Blackbody
+- Wein's law
+- Emissivity
+- Absorptivity
+- Reflectivity
+- Solar collectors
+- Windows
+- Heat transfer by radiation
+
+## Phase changes
+- latent heat storage
+- wax insulation
+- phase change
+- evaporation
+- condensation
+- freezing
+- melting
+- ice storage
+
+## Zeroth Law of Thermodynamics
+
+## First Law of Thermodynamics
+- furnaces
+
+## Second Law of Thermodynamics
+- Entropy
+- heat pumps
+- refrigerators
+
+
+
+
+
+
+
+
+## Methane Combustion
+
+- Methane + Oxygen -> Carbon Dioxide + Water + Energy
+- CH~4~ + 2O~2~ -> CO~2~ + 2H~2~O
+
+## Moles
+
+- One mole is 6.02 $\times 10^{23}$ molecules (or atoms) of a substance
+
+## Molar Weights
+
+| Material | Mass of one Mole (grams) |
+| -        | -                        |
+| Carbon   | 12                       |
+| Oxygen   | 16                       |
+| Hydrogen | 1                        |
+
+
+## Mole Conversion
+
+- One mole of methane burned equals one mole of CO~2~ released
+- Conversion factor:
+$$\frac{\textrm{1 mole carbon dioxide
+    released}}{\textrm{1 mole methane burned}}$$
+
+
+## Mass Conversion
+
+- We need to know the masses of these to make a conversion factor for
+    mass of carbon dioxide released to mass of methane burned
+- What is the mass of one mole of methane?
+- 12 grams per oxygen atom + 4 mole hydrogen * 1 gram per hydrogen mole = 16 grams
+- What is the mass of carbon dioxide?
+- 12 + 2 * 16 = 44 grams per mole
+
+## Mass Conversion
+
+- 16g CH~4~ + 64g 2O~2~ -> 44g CO~2~ + 36g 2H~2~O
+
+## Enthalpy of Formation
+
+| Substance      | Enthalpy (kJ/mol) |
+| -              | -                 |
+| Oxygen gas     | 0                 |
+| Liquid water   | -285.8            |
+| Water Vapor    | -241.8            |
+| Methane        | -74.9             |
+| Carbon Dioxide | -393.5            |
+
+## Energy Released
+
+- Change in enthalpy is the sum of products minus the sum of reactants
+- -393.5 + 2 * -241.8 - (-74.9 + 2 * 0) = -802.2 kJ/mol CH~4~ burned
+- This yields 50.1 kJ per gram
+- Compare to the published value
+
+## Carbon Tax
+
+- currently about 13 USD/tonne CO2 equivalent
+- How much would this change the cost of one therm of natural gas?
+
+## Caveat
+
+- Some carbon dioxide emissions are listed as the mass of carbon
+- Others are listed as the mass of carbon dioxide
+- You can always convert between the two using the molecular weight
+    ratio (44/12)
+
+### Assumptions
+
+- 100 cubic feet per therm
+- 0.8 kg per cubic meter density of natural gas
+- about $1 per therm
+
+
+## Carbon Tax Calculation
+
+    100 ft^3 * (1 m/3.3 ft)^3
+             * 0.8 kg CH4/m^3
+             * 44 kg CO2 / 16 kg CH4
+             * 0.012 USD/kg CO2 => $0.0735
+
+
+# Thermodynamics
+
+## Concepts
+- Temperature
+- Fahrenheit, Celsius, Kelvin Scale
+- Heat Capacity
+- First Law of Thermodynamics
+- Second Law of Thermodynamics
+- Energy Efficiency
+
+## Concepts
+- Carnot cycle heat engine
+- Carnot refrigerator
+- Carnot efficiency
+- Coefficient of performance for refrigeration
+- Coefficient of performance for heating
+- What is the carbon difference for heat pump vs combustion
+
+
+## Temperature
+- Measure of the internal energy in a system or material
+- This energy is the motion, vibration, or rotation of atoms and
+  molecules
+
+## Heat Engine
+- Heat engines convert thermal energy to mechanical kinetic energy
+- This conversion can never be 100 percent efficient
+
+## Heat Engine
+- Coal power plant turbines
+- Internal combustion engines
+
+## Heat Engines
+- The heat engine is a mathematical model
+- Takes the heat (flow) between two thermal reservoirs and converts some of
+  that heat to work
+- Heat can come from combustion or natural sources of heat
+
+## Heat Engines
+- A heat engine is more efficient when it uses a wider temperature range
+    between the hot and cold sides
+
+## Second Law of Thermodynamics
+- The amount of entropy (disorder) in a closed system always increases
+- Heat flows spontaneously from hot to cold
+- "You can't break even"
+
+## Thermodynamic limit to heat engine
+- Carnot derived the upper limit of efficiency for a heat engine
+$$\eta = 1 - \frac{T_C}{T_H}$$
+- This law dictates the maximum possible efficiency for power plants
+- Some of the heat must be released into the environment
+
+<!--
+what happens when T_C goes to zero?
+what happens when T_C and T_H are close to each other?
+-->
+
+## Heat Engine
+![](./figures/heat_engine_vector.png)
+
+## Quality
+![](./figures/mechanical_thermal.jpg)
+
+## Quality
+![](./figures/heat_engine.jpg)
+
+## Carnot Heat Engine
+- The most efficient heat engine possible uses a Carnot cycle
+- Heat is used to expand a gas and do work and heat is removed during
+  the compression of the gas.
+
+## Power plant
+![](./figures/heat_engine_plant.jpg)
+
+## Power plant
+![](./figures/coal_plant_cooling_towers.jpg)
+
+## Zeroth Law of Thermodynamics
+- If two systems are each in thermal equilibrium with a third system,
+  they are also in thermal equilibrium with each other.
+- Real world example: Coffee gets cold, ice cream melts
+
+## First Law of Thermodynamics
+- Energy is conserved
+- Energy cannot be created or destroyed
+- "You can't get something for nothing"
+
+## First Law Efficiency
+- Most commonly used measure of efficiency
+- Useful energy out divided by total energy in
+
+## Coefficient of Performance
+![](./figures/COP-heat-pump.png)
+
+## Maximum COP
+
+For refrigeration
+$$ COP_R = \frac{T_C}{T_H - T_C} $$
+
+For a heat pump
+$$ COP_{HP} = \frac{T_H}{T_H - T_C} $$
+
+
+
 
 
