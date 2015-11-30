@@ -323,3 +323,54 @@ $$ CCE = \frac{\textrm{annual extra investment cost}}{\textrm{annual energy savi
 The key to this is a clear definition of the two scenarios you are
 comparing.  The cost is the difference in cost and the energy is the
 difference in energy between the two scenarios.
+
+# Conserved cost of energy
+
+We can calculate the conserved cost of energy of adding an additional sheet of insulation.  To do this, we compare two scenarios, for example, the energy of only one sheet of insulation and then the energy of two sheets and the cost of the additional sheet.  Recall that our cost of energy in our previous calculation is 1 USD per therm.
+
+## Scenario 1
+- One sheet of insulation
+- 50.5 MMBTU
+
+## Scenario 2
+- Two sheets of insulation
+- 25.2 MMBTU
+- 442 USD additional cost
+- 44.20 USD yearly additional cost
+
+$$ CCE = \frac{\textrm{annual extra investment cost}}{\textrm{annual energy savings}} $$
+$$ CCE = 44.20 USD/25.3 MMBTU = 0.17 USD/therm$$
+
+## Scenario 4
+- Four sheets of insulation
+- 12.6 MMBTU
+
+## Scenario 5
+- Five sheets of insulation
+- 10.1 MMBTU
+- 44.20 USD yearly additional cost over scenario 4
+
+$$ CCE = 44.20 USD / 2.5 MMBTU = 1.77 USD/therm $$
+
+```python
+(44.20 * u.dollar / (25.3e6 * u.BTU)).to(u.dollar/u.therm)
+```
+
+0.17 dollar/thm
+
+```python
+energy_price = 1e-5 * u.dollar / u.BTU
+energy_price.to(u.dollar/u.therm)
+```
+
+1.0 dollar/thm
+
+```python
+(44.20 * u.dollar / (2.5e6 * u.BTU)).to(u.dollar/u.therm)
+```
+
+1.768 dollar/thm
+
+
+
+
