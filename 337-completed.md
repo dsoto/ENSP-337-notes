@@ -27,11 +27,6 @@
 - Understand the larger context for thermal energy
 
 
-## Announcements
-
-- New email accounts
-- Google Drive accounts
-
 
 ## Instructor Expectations
 
@@ -99,14 +94,6 @@
 <!-- equilibrium temperature bathtub model -->
 <!-- concepts of temperature -->
 
-
-## Announcements
-
-- Sept 2nd 4pm department office internship deadline
-- Sept 3rd 2pm Garden internship position
-- Sept 8th Add/Drop deadline
-- Sept 13th NBEAA Drive Electric Day at Coddington North
-- Oct 30th ENSP application due
 
 
 ## Thermal energy concepts
@@ -192,19 +179,6 @@ What do you already know about each of these thermal energy concepts?
 - Perform simple and complex unit conversions
 - Learn common energy units
 
-
-## Announcements
-
-- Sept 2nd 4pm department office internship deadline
-- Sept 3rd 2pm Garden internship position
-- Sept 8th Add/Drop deadline
-- Sept 9th Peter Singer poverty lecture Weill Hall 6:30
-- Sept 10th Noon I'm speaking in ENSP 201
-- Sept 13th NBEAA Drive Electric Day at Coddington North
-- Sept 15th Grad apps for Fall semester
-- Oct 21st Sustainability Day at the Student Center
-    - David Orr keynote
-- Oct 30th ENSP application due
 
 ## Required purchase?
 
@@ -338,21 +312,6 @@ quantities of length are equal.
 - Able to use numerical computing environment to create and narrate computations
 - Able to use spreadsheets to create computations
 - We may touch on the time value of money at the end
-
-## Announcements
-- Sept 9th Peter Singer poverty lecture Weill Hall 6:30 50 walk up tickets
-- Sept 10th Noon I'm speaking in ENSP 201
-- Sept 10th Schulz Info Center 15th Birthday 4pm-6pm
-- Sept 13th NBEAA Drive Electric Day at Coddington North
-- Sept 15th Grad apps for Fall semester
-- Sept 19th DREAMer Conference
-- Oct 21st Sustainability Day at the Student Center
-    - David Orr keynote
-- Oct 26th SOURCE Awards Undergraduate Research/Creative Project Grant Program application due
-    - http://www.sonoma.edu/source/grants/student.html
-- Oct 30th ENSP application due
-- Dec 4th UC Berkeley Energy Resources Group grad school application
-
 
 ## Numerical Computing Environment
 
@@ -632,23 +591,6 @@ This is very close to our measure value of 1300 watts.
 - Estimate the energy flow through conductive materials
 - Understand linear relationships
 
-## Announcements
-
-- Sept 29, Oct 1st PG&E free solar webinars
-- Oct 1st Engineering Science Colloquium Daniel Soto 4:30pm Salazar 2009A
-- Oct 8th 1-3pm Open Forum Presidential Search
-- Oct 15th 12-2 SSU Finance Audit Presentation
-- Oct 21st Sustainability Day at the Student Center
-    - David Orr,
-    - Geoff Syphers, getting to zero
-    - Lucy Gudiel-Hernandez, youth leadership potential in sustainability
-    - Chris Fadeff, political action to change conversation
-- Oct 26th SOURCE Awards Undergraduate Research/Creative Project Grant Program application due
-    - http://www.sonoma.edu/source/grants/student.html
-- Oct 30th ENSP application due
-- Dec 4th UC Berkeley Energy Resources Group grad school application
-- Jan 15th CSU Humboldt Energy Technology and Policy grad school application
-
 
 # Lecture 10, Conduction
 
@@ -659,10 +601,6 @@ This is very close to our measure value of 1300 watts.
 **02 Sep 2015**
 
 # Lecture 14, Midterm Review
-
-## Announcements
-- Oct 15th 12-2 SSU Finance Audit Presentation
-<!-- democratic debate? -->
 
 ## Midterm
 - Quantitative
@@ -692,15 +630,6 @@ This is very close to our measure value of 1300 watts.
 
 ## Lecture 18, Thermodynamics
 
-## Announcements
-- Dec 1st California Rare Fruit Growers $1K scholarship
-- Feb 8th Capital Fellows [Program](http://www.csus.edu/calst/capital_fellows_programs_overview.html)
-- Looking for TAs for next semester and year classes
-    - ENSP 202 Quantitative Methods
-    - ENSP 430 Energy Forum
-    - ENSP 437 Passive Solar Design
-    - preparation for ENSP 439L Computer Applications in EMD (Spring 2017)
-
 ## Deadlines
 - Load up coolers on afternoon of Tuesday Nov. 17th
 
@@ -720,8 +649,6 @@ This is very close to our measure value of 1300 watts.
 
 
 # Lecture 20, Monday 9 Nov 2015, Metrics
-
-## Announcements
 
 ## Metrics
 - How do we estimate the energy use for a home?
@@ -746,9 +673,6 @@ This is very close to our measure value of 1300 watts.
 ## Plan
 - Demo of SMC functions
 - Demo of TMY file
-
-## Announcements
-
 
 ## Project Announcement
 - We will load up projects from 4pm to 5pm Tuesday Nov 17th
