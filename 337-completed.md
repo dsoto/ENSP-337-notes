@@ -700,3 +700,69 @@ This is very close to our measure value of 1300 watts.
 <!-- I made a notebook in SMC as an example -->
 
 
+# Lecture 22, Wed 18 Nov, HDD, TMY, CDD
+
+## Announcements
+- 5pm at the HUB dialogue on the campus community
+
+## Weighing of Ice Cubes
+
+## Quiz 6
+
+
+
+
+# Lecture 23, Mon 23 Nov 2015, Economic Cost of Insulation
+
+## Announcements
+
+## Economic Cost of Insulation
+- How much insulation should we apply to a home?
+
+## Thought experiment
+- You have a small cabin in a cold area
+- You are insulating the walls with rigid insulation
+- How many layers should you apply?
+
+## Calculation
+- What is the area of the cabin?
+- What is the cost of insulation?
+- What does the insulation cost if you pay back over 10 years?
+
+## Calculation
+- What is the yearly heating need for the cabin?
+- How much does this energy cost each year?
+
+## Calculation
+- How does this combined cost vary with the number of sheets?
+
+
+
+# Lecture 24, Mon 30 Nov 2015, Conserved cost of Energy
+
+## Announcements
+- Project Presentation Signups
+- Final Exam Team Signups
+
+## Conserved Cost of Energy
+
+The conserved cost of energy is cost of the equivalent purchase of
+energy to a conservation measure.
+
+This allows us to compare this metric to the cost of energy.
+
+$$ CCE = \frac{\textrm{annual extra investment cost}}{\textrm{annual energy avoided}} $$
+
+The key to this is a clear definition of the two scenarios you are
+comparing.  The cost is the difference in cost and the energy is the
+difference in energy between the two scenarios.
+
+
+## CCE
+- calculate for the additional sheets of insulation on our cabin
+- write up calculation better and put in course notes
+- fire up sage math cloud
+
+# Lecture 25, Projects, 2 Dec 2015
+
+
