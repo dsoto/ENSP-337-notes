@@ -2,6 +2,85 @@
 
 This borrows heavily from the UC Berkeley ERG Toolkits.
 
+## Learning Objectives
+
+- Perform simple and complex unit conversions
+- Learn common energy units
+
+
+## Physical Quantities
+- Our numbers are often helping us represent physical quantities
+- Examples:
+    - The length of a tree
+    - The number of animals observed
+    - The number of molecules of mercury in a fish
+- A physical quantity is expressed as the product of a unit and a
+  numerical factor
+
+## Dimensions
+- These physical quantities often have a dimension
+- Examples:
+    - Length
+    - Time
+    - Mass
+
+## Units
+- To quantify dimensions, we use units
+- One dimension may have multiple units
+- Length: inches, miles, kilometers, light-years
+- Mass: grams, pounds, kilograms
+- There are also systems of units like SI or English
+
+## Measurement
+- Each measurement we make is an estimation of the physical quantity
+
+## Consequences
+- NASA Mars Climate Orbiter destroyed because of newton vs pounds of
+force
+- A cargo flight was lost in 1999 when crew confused meters and feet
+
+
+## Unit conversion factors
+- These factors are equivalent to one or unity and are dimensionless
+- They are not numerically equal to one in most cases.
+- Units can be crossed out
+
+## Numerical Computing Environment
+
+- Matlab
+- Scientific Python
+- Julia
+- Sage Math Cloud
+
+<!-- There is a subtle difference between computer programming and numerical -->
+<!-- computing. -->
+
+## Learning Objectives
+
+- Able to use numerical computing environment to create and narrate computations
+- Able to use spreadsheets to create computations
+
+
+
+
+## Written
+- Explanation of unit factor with inches and centimeters
+
+
+## Unit Factor
+
+$$ 1 \textrm{inch} = 2.54 \textrm{cm} $$
+Dividing, we get
+$$ \frac{2.54\textrm{cm}}{\textrm{inch}} = 1 $$
+Note that 2.54 does not equal one, but with the units the two physical
+quantities of length are equal.
+
+
+## Combinations of units
+- We often combine units to express new quantities
+
+
+
 ## Performing computations
 
 While we want to develop our intuition when we are estimating with large
@@ -9,7 +88,7 @@ numbers, performing accurate calculations is also important.  You will
 be able to calculate these numbers on a hand-held calculator, in Excel,
 and using scientific computing platforms like Python or Julia.
 
-# SageMathCloud
+## SageMathCloud
 
 - sign up at sage math cloud
     - here is a nested list
@@ -31,7 +110,7 @@ and using scientific computing platforms like Python or Julia.
 - up arrow moves between cells
 - download as pdf
 
-# Performing computations
+## Performing computations
 
 While we want to develop our intuition when we are estimating with large
 numbers, performing accurate calculations is also important.  You will
@@ -53,6 +132,9 @@ calculation is often preferable to using a calculator.
 
 To perform basic calculations with numbers, we can type numbers into the
 computer and use the symbols above to perform the calculation.
+
+In the Jupyter notebook, press shift-enter to evaluate a cell.
+
 
 ## Variables
 
@@ -101,15 +183,28 @@ varies but the idea is usually the same.
     f(5) => 15
 
 
+For Julia:
+
+    m = 1
+    b = 10
+    f(x) = m * x + b
+
+Python has a different syntax but it is the same idea.
+
+## Narration
+
+- You can add text and mathematics to your document
+- ``# Title`` makes bold text
+- ``$$ \frac{1}{2} $$`` creates mathematics $$ \frac{1}{2} $$
 
 
-# Google Docs
+## Google Docs
 
 - be sure you have access to your new sonoma.edu drive account
 - access the template file that I shared
 - fill in the different values and sheets
 
-# Pandas
+## Pandas
 - assumes mastery of single variables
 - now we do vector calculations (numpy or pandas?)
 - to do TMY calculation we need to take difference and plot
@@ -118,12 +213,12 @@ varies but the idea is usually the same.
 ## Scientific Notation
 - Allows us to compactly write very large or very small numbers
 
-# Orders of magnitude
+## Orders of magnitude
 - Powers of ten
 - Place value representation
 - Operating on numbers with scientific notation
 
-# Representing large numbers
+## Representing large numbers
 - On paper
 - On a calculator
 - On a computer
@@ -199,7 +294,7 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 i need to make ipython notebooks that take students through this
 -->
 
-# Worked Exercises
+## Worked Exercises
 
 ## Exercise
 - Estimate the yearly use of gasoline in the US
@@ -209,6 +304,6 @@ i need to make ipython notebooks that take students through this
 - How many gallons do you consume?
 - How many persons in the US?
 
-# Problems
+## Problems
 
 

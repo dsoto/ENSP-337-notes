@@ -6,6 +6,7 @@
 # Reading
 - Hewitt, Conceptual Physics 13-16
 - Incropera?
+- EFS
 
 # Basic Concepts
 
@@ -25,6 +26,8 @@
     - One quadrillion ($10^{15}$) BTU
 - Therm
 
+## Energy Unit Table
+
 | Unit          |             | Joule Equivalent |
 | ----          | -----       | -----            |
 | Joule         |             |                  |
@@ -40,6 +43,7 @@
 - Horsepower
 - BTU/hour (sometimes just called BTU)
 
+## Power Unit Table
 
 | Unit       |       | Watt Equivalent |
 | ----       | ----- | -----           |
@@ -626,5 +630,10 @@ $$ COP_{HP} = \frac{T_H}{T_H - T_C} $$
 
 
 
+
+
+## Activity
+
+- Show that one kilowatt-hour is equal to 3.6 MJ.
 
 
