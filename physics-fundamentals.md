@@ -82,7 +82,7 @@ flow do you expect?
 
 $$ q_x = -kA\frac{\Delta T}{\Delta x} $$
 
-- $q_x$ dimensions of energy per time or power
+- $$q_x$$ dimensions of energy per time or power
 - $A$ dimensions of area
 - $k$ dimensions of power per distance per degree
 - $\Delta T$ is the temperature difference
