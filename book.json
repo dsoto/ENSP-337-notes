@@ -1,6 +1,6 @@
 {
     "gitbook": ">=2.0.0",
     "title": "Thermal Energy Management",
-    "plugins": [ "mathjax" ],
+    "plugins": [ "mathjax-beta" ],
     "pluginsConfig": {}
 }

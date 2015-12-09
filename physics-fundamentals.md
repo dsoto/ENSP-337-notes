@@ -23,7 +23,7 @@
 - British Thermal Unit (BTU)
     - Energy to heat one pound of water by one degree Fahrenheit
 - Quad
-    - One quadrillion ($10^{15}$) BTU
+    - One quadrillion ($$10^{15}$$) BTU
 - Therm
 
 ## Energy Unit Table
@@ -83,10 +83,10 @@ flow do you expect?
 $$ q_x = -kA\frac{\Delta T}{\Delta x} $$
 
 - $$q_x$$ dimensions of energy per time or power
-- $A$ dimensions of area
-- $k$ dimensions of power per distance per degree
-- $\Delta T$ is the temperature difference
-- $\Delta x$ is the thickness of the material
+- $$A$$ dimensions of area
+- $$k$$ dimensions of power per distance per degree
+- $$\Delta T$$ is the temperature difference
+- $$\Delta x$$ is the thickness of the material
 
 ## Fourier's Law Differential Form
 
@@ -94,17 +94,17 @@ $$ q_x = -k \frac{dT}{dx} $$
 
 $$ q = -k \nabla T $$
 
-- $q_x$ dimensions of power per unit area
-- $k$ dimensions of power per distance per degree
+- $$q_x$$ dimensions of power per unit area
+- $$k$$ dimensions of power per distance per degree
 
 ## Fourier's Law, Buildings Form
 
 $$ Q = U A \Delta T $$
 
-- $Q$ heat transfer dimensions of power
-- $U$ dimensions of power per area per degree temperature
-- $A$ dimension of area
-- $T$ dimension of temperature
+- $$Q$$ heat transfer dimensions of power
+- $$U$$ dimensions of power per area per degree temperature
+- $$A$$ dimension of area
+- $$T$$ dimension of temperature
 
 ## Conductivity
 ![](./figures/conductivity-incropera.png)
@@ -126,8 +126,8 @@ $$ Q = U A \Delta T $$
 
 ## Units
 
-- in US units R value is $ft^2 \circ F / BTU per hour$
-- in SI units R value is $m^2 K / watt $
+- in US units R value is $$ft^2 \circ F / BTU per hour$$
+- in SI units R value is $$m^2 K / watt $$
 
 ## Parallel
 
@@ -216,8 +216,8 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
 - Draw the temperature profile as a function of distance
 
 ## Lumped R-values
-- $R_{cvi}$ inside r value
-- $R_{cvo}$ outside r value
+- $$R_{cvi}$$ inside r value
+- $$R_{cvo}$$ outside r value
 
 <!-- did we underestimate R effect last time -->
 
@@ -245,8 +245,8 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
 
 ## R-values
 
-- $R_{cvi}$ = 0.68 hr-sqft-F/BTU
-- $R_{cvo}$ = 0.17 hr-sqft-F/BTU
+- $$R_{cvi}$$ = 0.68 hr-sqft-F/BTU
+- $$R_{cvo}$$ = 0.17 hr-sqft-F/BTU
 - 3/16 inch of glass, k = 5.5 BTU-in/hr-sqft-F
 
 ## Questions
@@ -315,10 +315,10 @@ $$ P = A \epsilon \sigma T^4 $$
 
 |            |                           |                                                  |
 | ---------- | ------------------------- | ------------------------------------------------ |
-| $A$        | surface area              | square meters                                    |
-| $\epsilon$ | emissivity                | dimensionless                                    |
-| $\sigma$   | Stefan-Boltzmann constant | $5.67\cdot 10^{-8}$ W per square meter per K$^4$ |
-| $T$        | temperature               | Kelvin                                           |
+| $$A$$        | surface area              | square meters                                    |
+| $$\epsilon$$ | emissivity                | dimensionless                                    |
+| $$\sigma$$   | Stefan-Boltzmann constant | $$5.67\cdot 10^{-8}$$ W per square meter per K$$^4$$ |
+| $$T$$        | temperature               | Kelvin                                           |
 
 ## Emissivity
 
@@ -449,7 +449,7 @@ $$ P = \epsilon \sigma A (T_1^4 - T_2^4) $$
 
 ## Moles
 
-- One mole is 6.02 $\times 10^{23}$ molecules (or atoms) of a substance
+- One mole is 6.02 $$\times 10^{23}$$ molecules (or atoms) of a substance
 
 ## Molar Weights
 
