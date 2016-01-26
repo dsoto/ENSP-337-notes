@@ -240,13 +240,6 @@ This is very close to our measure value of 1300 watts.
 
 # Lecture 8, Combustion
 
-## ENSP 337, Lecture 8, Combustion
-
-**Professor Daniel Soto, Sonoma State University**
-
-**23 Sep 2015**
-
-
 ## Learning Objectives
 
 - Calculate carbon emissions resulting from combustion and electricity
@@ -276,40 +269,8 @@ This is very close to our measure value of 1300 watts.
 
 
 # Lecture 9, Conduction
-
-## ENSP 337, Lecture 9, Conduction
-
-**Professor Daniel Soto, Sonoma State University**
-
-**28 Sep 2015**
-
-## Plan
-
-- Intro 15 min
-- Homework Swap 30 min
-- Conduction lecture 45 min
-
-## Learning Objectives
-
-- Estimate the energy flow through conductive materials
-- Understand linear relationships
-
-
 # Lecture 10, Conduction
-
-## ENSP 337, Lecture 10, Conduction
-
-**Professor Daniel Soto, Sonoma State University**
-
-**02 Sep 2015**
-
 # Lecture 14, Midterm Review
-
-## Midterm
-- Quantitative
-- Conceptual
-- Letter size cheat sheet allowed and turned in
-- No internet
 
 ## Topics
 - Units and conversions
@@ -327,8 +288,6 @@ This is very close to our measure value of 1300 watts.
 - Time Value of Money
 
 # Lecture 15, Midterm
-
-
 # Lecture 18
 
 ## Lecture 18, Thermodynamics
@@ -353,18 +312,7 @@ This is very close to our measure value of 1300 watts.
 
 # Lecture 20, Monday 9 Nov 2015, Metrics
 
-## Metrics
-- How do we estimate the energy use for a home?
 
-
-## Homework 3.7 and 3.8
-- 3.7
-    - surface area of cylinder
-    - units of area
-    - Square millimeters vs square meters
-- 3.8
-    - surface area of cube
-    - units of area
 
 ## Heating Degree Days
 - How much energy will it take to heat the ETC this winter?
@@ -373,19 +321,6 @@ This is very close to our measure value of 1300 watts.
 
 # Lecture 21, Monday 16 Nov, HDD, TMY, CDD?
 
-## Plan
-- Demo of SMC functions
-- Demo of TMY file
-
-## Project Announcement
-- We will load up projects from 4pm to 5pm Tuesday Nov 17th
-- We will measure at the beginning of class on Wednesday Nov 18th
-
-<!-- energy = power times time -->
-<!-- relation of temperature inside to outside is delta T -->
-<!-- delta T multiplied by the time step is the energy -->
-<!-- you can pull the UA from the sum -->
-<!-- delta T dt is the degree day -->
 
 ## Sage Math Cloud
 - Markdown
@@ -395,18 +330,8 @@ This is very close to our measure value of 1300 watts.
 - Code
     - Allows computations
 
-<!-- create new ipython notebook -->
-<!-- set kernel to python 3 -->
-<!-- how to explain masking? -->
-
-
-<!-- I made a notebook in SMC as an example -->
-
 
 # Lecture 22, Wed 18 Nov, HDD, TMY, CDD
-
-## Announcements
-- 5pm at the HUB dialogue on the campus community
 
 ## Weighing of Ice Cubes
 
@@ -443,10 +368,6 @@ This is very close to our measure value of 1300 watts.
 
 # Lecture 24, Mon 30 Nov 2015, Conserved cost of Energy
 
-## Announcements
-- Project Presentation Signups
-- Final Exam Team Signups
-
 ## Conserved Cost of Energy
 
 The conserved cost of energy is cost of the equivalent purchase of
@@ -467,5 +388,54 @@ difference in energy between the two scenarios.
 - fire up sage math cloud
 
 # Lecture 25, Projects, 2 Dec 2015
+# Lecture 26, Projects, 7 Dec 2015
+# Lecture 27, Review, 9 Dec 2015
+
+## Announcements
+
+- SETE evaluations
+- Power adapters for midterm
+- Sign up for teams
+
+## Cooler reports
+
+- Break report into sections
+- Outline and narrate your computations
+
+## Optional homework
+
+- Read How to Become a Straight-A Student, Cal Newport
+- Write a 1000-word essay on how you would change your study habits
+
+## Self-evaluation
+
+- What is the most important thing you learned in this class?
+- What are you able to do now that you weren't at the beginning?
+- What will you remember five years from now?
+- What behaviors were most beneficial for your learning?
+- Where could you improve on your habits?
+- What skills have you developed?
+- What skills would you still like to develop further?
+
+## Learning goals
+
+- Goal: you are able to teach yourself one of these topics 5 years from now
+- Goal: you can communicate your estimations to others
+- [Calculation Example](http://worrydream.com/ClimateChange/#media-debate)
+
+## Major Topics
+
+- Units
+- Investment metrics
+- Energy, Power, Heat
+- Combustion
+- Conduction, Convection, Radiation
+- Phase change
+- Thermodynamics
+- Heating degree days
+- Conserved cost of energy
+
+## Questions
+
 
 

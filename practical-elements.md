@@ -34,3 +34,14 @@
 ## Heat Pumps
 - Thermodynamic cycle
 
+## Time Step Calculations
+
+If we have a known thermal mass surrounded by a known insulating
+exterior and begin to heat the mass, what will the change in temperature
+look like?
+
+## Spectrally Selective Materials
+
+In a cold climate, it would be advantageous to be able to absorb
+sunlight very efficiently, but radiate heat very inefficiently.  What
+properties would such a material have?
