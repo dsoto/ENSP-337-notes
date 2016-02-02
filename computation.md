@@ -86,6 +86,20 @@ f(x) = m * x + b
 f(5) => 15
 ```
 
+## Print Function
+
+Computer functions can take many things besides numbers as input and do
+many things besides return numbers as output.  The print function is
+very useful.  Provided with text or variables, it will output things to
+the screen.
+
+```
+estimate = 20
+print('My estimate: ', estimate)
+
+> My estimate: 20
+```
+
 # Jupyter Concepts
 
 - Markup and Markdown
