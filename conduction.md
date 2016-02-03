@@ -122,6 +122,14 @@ r_SIP_SI = 2 * r_wood + r_foam => 4.1333 m^2*K/W
 r_SIP_US = r_SIP_SI * 5.68 ft^2/m^2*F/K*W/BTU => 23.4773 ft^2*F/BTU
 ```
 
+## Convert R-values
+
+Convert between a US R-value and a metric R-value.
+
+![R-Value Conversion](./figures/unit-conversion-r-value.png)
+
+Once you learn how to do this, you can use the value you calculate as a
+conversion factor.  This will help you convert more quickly.
 
 
 
