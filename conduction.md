@@ -140,3 +140,51 @@ conversion factor.  This will help you convert more quickly.
 - How much power do we need to maintain the ETC one degree above the
     outside temperature?
 
+## Calculus Approach to Heat Loss through conduction
+
+We calculate the temperature as a function of time of a heated object
+that loses heat to its surroundings through an insulation.  We start
+with a lumped mass approximation with conductive heat loss through an
+insulator.  Using the heat capacity of the object we have the relation
+
+$$ C = \frac{Q}{\Delta T} $$
+
+Where $$C$$, the heat capacity is the product of the density, $$\rho$$,
+the volume of the object $$V$$, and the specific heat capacity of the
+material $$c$$.
+
+$$ C = \rho V c $$
+
+Over a small time interval $$dt$$, the heat lost by the object as heat
+conducts away is the product of the temperature difference $$T - T_C$$,
+the thermal conductivity of the insulation, $$K$$ and the time interval
+$$dt$$.
+
+$$ Q = K (T - T_C) dt $$
+
+Substituting, we get
+
+$$ \rho V c = K (T - T_C) dt/dT $$
+
+which we rearrange and integrate
+
+$$ \int_{0}^{t} \frac{K}{\rho V c} dt = \int_{T_0}^{T} \frac{dT}{T - T_C} $$
+
+with initial conditions $$T = T_0$$ at $$t=0$$ and $$T=T$$ at $$t=t$$.  Integrating, we get
+
+$$ \frac{K}{\rho V c} t \bigg|_0^t =  \ln(T - T_C) \bigg|_{T_0}^{T}$$
+
+$$ \frac{K}{\rho V c} t =  \ln(\frac{T - T_C}{T_0 - T_C}) $$
+
+We exponentiate both sides and get
+
+$$ \exp(-\frac{K}{\rho V c} t) =  \frac{T - T_C}{T_0 - T_C} $$
+
+$$ T = (T_0 - T_C) \exp (-\frac{K}{\rho V c} t) + T_C $$
+
+The equation shows an exponential decay in temperature starting at
+$$T_0$$, the initial temperature of the object, decaying to $$T_C$$.
+
+## Discrete approach
+
+We can also do this numerically with a discrete time period.
