@@ -107,6 +107,12 @@ print('My estimate: ', estimate)
 - Python
 - Jupyter
 
+## Python
+
+Python is a general purpose language that can be used for calculations.
+You can find more information about Python
+[here](https://docs.python.org/3/tutorial/introduction.html)
+
 ## Jupyter
 
 - Jupyter is like a word processor and spreadsheet in one program
@@ -158,3 +164,9 @@ computations
 - We will add you to our class
 - You will be able to access class content and various tools
 
+## Pint Unit Library
+
+- By using the Pint library you can include units in your Python
+    calculations.
+- You can learn more about Pint by a Google search or
+    [here](https://pint.readthedocs.org/)
