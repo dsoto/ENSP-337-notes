@@ -78,6 +78,7 @@ properties would such a material have?
 - For simple cases, we can estimate this from the UA product
 
 $$ q = U A \Delta T $$
+
 $$ \Delta T = T_{inside} - T_{outside} = q/UA $$
 
 ## Box Experiment
