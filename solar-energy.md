@@ -76,7 +76,7 @@ or electricity.
 - It also changes the distance the rays travel through the atmosphere
 
 ## Earth orientation and orbit
-![REEPS](../figures/REEPS2CH4-ecliptic.pdf)
+![REEPS](../figures/ecliptic.png)
 
 ## Sun Ray Angles
 ![Schroeder](../figures/EarthCirclesAndSunRays.png)
@@ -103,7 +103,7 @@ or electricity.
 <!-- TODO: what are typical optical depths? -->
 
 ## Air mass ratio
-![](../figures/REEPS2CH4-air-mass.pdf)
+![](../figures/air-mass.png)
 
 ## Air mass ratio
 - There are some standard air mass ratios we use
@@ -130,7 +130,7 @@ $$ d=1.5 \times 10^8
   down motion with a period of one year.
 
 ## Solar declination
-![](../figures/REEPS2CH4-declination.pdf)
+![](../figures/declination.png)
 
 ## Declination equation
 We can estimate the declination of the sun with this equation
@@ -177,7 +177,7 @@ $$\sin \phi = \cos \delta \sin H / \cos \beta$$
 ![](./figures/sun-path-feb-4.png)
 
 ## Sun path for SSU
-![](./figures/sun-path-rohnert-park.pdf)
+![](./figures/sun-path-rohnert-park.png)
 
 ## Python Sun Path
 - [Sun path](http://nbviewer.ipython.org/github/dsoto/PyPVSim/blob/master/ipynb/sunpath.ipynb)
@@ -197,11 +197,11 @@ $$\sin \phi = \cos \delta \sin H / \cos \beta$$
 $$ H = \frac{15 degrees}{hour} \cdot \textrm{hours before solar noon} $$
 
 ## Common panel tilt
-![REEPS 4.X](../figures/panel-and-declination.pdf)
+![REEPS 4.X](../figures/panel-and-declination.png)
 Panels tilted at the latitude so equinox sun strikes directly.
 <!-- ideas why we do this? -->
 
-![REEPS 4.X](../figures/altitude-and-declination.pdf)
+![REEPS 4.X](../figures/altitude-and-declination.png)
 
 ## Solar angle calculation
 
@@ -249,13 +249,13 @@ $$ \cos\theta = \cos\beta\cos(\phi_s - \phi_c)\sin\Sigma +
 ## Angle of the sun and panel
 - $$I_{BC} = I_B \cos \theta$$
 
-![](../figures/REEPS2CH4-panel-angle.pdf)
+![](../figures/panel-angle.png)
 
 ## Angle of the sun and panel
 We can determine the angle of the sunlight and the panel from the sun's
 elevation and azimuth, and the tilt and angle of the panel.
 
-![](../figures/REEPS2CH4-panel-angle-2.pdf)
+![](../figures/panel-angle-2.png)
 
 ## Extraterrestrial solar radiation
 - Sunlight striking the top of the atmosphere
@@ -277,7 +277,7 @@ Where
 ![](../figures/solar-pathfinder.jpg)
 
 ##
-![](../figures/sun-path-obstructions.pdf)
+![](../figures/sun-path-obstructions.png)
 
 <!-- how do we do this as cheaply as possible? -->
 <!-- we want to maximize accuracy and guarantee power but minimize cost of doing it -->
@@ -293,7 +293,7 @@ Where
 - How do we measure it?
 
 ## Measuring solar radiation
-![](../figures/REEPS2CH4-pyranometer.pdf)
+![](../figures/pyranometer.png)
 
 ## Typical meteorological year
 - Hourly solar and weather estimates for typical conditions
@@ -316,5 +316,5 @@ Where
 - Diffuse
 
 ## Direct, reflected, diffuse
-![](../figures/REEPS2CH4-direct-and-reflected.pdf)
+![](../figures/REEPS2CH4-direct-and-reflected.png)
 
