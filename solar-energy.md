@@ -198,7 +198,9 @@ $$ H = \frac{15 degrees}{hour} \cdot \textrm{hours before solar noon} $$
 
 ## Common panel tilt
 ![REEPS 4.X](../figures/panel-and-declination.png)
+
 Panels tilted at the latitude so equinox sun strikes directly.
+
 <!-- ideas why we do this? -->
 
 ![REEPS 4.X](../figures/altitude-and-declination.png)
