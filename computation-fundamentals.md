@@ -101,9 +101,6 @@ Python has a different syntax but it is the same idea.
 - to do TMY calculation we need to take difference and plot
 - then we need to add up only the positive values
 
-## Scale of energy quantities
-![](../figures/ipcc_energy_primer.png)
-- from IPCC Energy Primer
 
 ## Energy Units
 - Joule

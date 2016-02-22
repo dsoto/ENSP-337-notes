@@ -316,5 +316,5 @@ Where
 - Diffuse
 
 ## Direct, reflected, diffuse
-![](../figures/REEPS2CH4-direct-and-reflected.png)
+![](../figures/direct-and-reflected.png)
 
