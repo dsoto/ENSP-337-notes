@@ -55,16 +55,16 @@ or electricity.
 - Electron is collected and delivered to the grid
 
 ## Electromagnetic Spectrum
-![](../figures/electromagnetic-spectrum.jpg)
+![](./figures/electromagnetic-spectrum.jpg)
 
 ## Blackbody Spectrum
-![](../figures/blackbody-spectrum.png)
+![](./figures/blackbody-spectrum.png)
 
 ## Solar Spectrum
-![](../figures/Solar_Spectrum.png)
+![](./figures/Solar_Spectrum.png)
 
 ## The Solar System
-![](../figures/solar-system-nasa.jpg)
+![](./figures/solar-system-nasa.jpg)
 
 ## Seasons
 - What causes the seasons?
@@ -76,13 +76,13 @@ or electricity.
 - It also changes the distance the rays travel through the atmosphere
 
 ## Earth orientation and orbit
-![REEPS](../figures/ecliptic.png)
+![REEPS](./figures/ecliptic.png)
 
 ## Sun Ray Angles
-![Schroeder](../figures/EarthCirclesAndSunRays.png)
+![Schroeder](./figures/EarthCirclesAndSunRays.png)
 
 ## Sun Ray Angles
-![Schroeder](../figures/SunRayAngles.png)
+![Schroeder](./figures/SunRayAngles.png)
 
 ## Radiation units
 - Power per unit area (watts per square meter) (W/m$$^2$$)
@@ -90,7 +90,7 @@ or electricity.
 - Energy = Power $$\times$$ Time
 
 ## Atmospheric depth
-![Schroeder](../figures/RedSunsetDiagram.png)
+![Schroeder](./figures/RedSunsetDiagram.png)
 
 ## Atmospheric absorption
 - Air mass ratio
@@ -103,7 +103,7 @@ or electricity.
 <!-- TODO: what are typical optical depths? -->
 
 ## Air mass ratio
-![](../figures/air-mass.png)
+![](./figures/air-mass.png)
 
 ## Air mass ratio
 - There are some standard air mass ratios we use
@@ -130,7 +130,7 @@ $$ d=1.5 \times 10^8
   down motion with a period of one year.
 
 ## Solar declination
-![](../figures/declination.png)
+![](./figures/declination.png)
 
 ## Declination equation
 We can estimate the declination of the sun with this equation
@@ -197,13 +197,13 @@ $$\sin \phi = \cos \delta \sin H / \cos \beta$$
 $$ H = \frac{15 degrees}{hour} \cdot \textrm{hours before solar noon} $$
 
 ## Common panel tilt
-![REEPS 4.X](../figures/panel-and-declination.png)
+![REEPS 4.X](./figures/panel-and-declination.png)
 
 Panels tilted at the latitude so equinox sun strikes directly.
 
 <!-- ideas why we do this? -->
 
-![REEPS 4.X](../figures/altitude-and-declination.png)
+![REEPS 4.X](./figures/altitude-and-declination.png)
 
 ## Solar angle calculation
 
@@ -251,13 +251,13 @@ $$ \cos\theta = \cos\beta\cos(\phi_s - \phi_c)\sin\Sigma +
 ## Angle of the sun and panel
 - $$I_{BC} = I_B \cos \theta$$
 
-![](../figures/panel-angle.png)
+![](./figures/panel-angle.png)
 
 ## Angle of the sun and panel
 We can determine the angle of the sunlight and the panel from the sun's
 elevation and azimuth, and the tilt and angle of the panel.
 
-![](../figures/panel-angle-2.png)
+![](./figures/panel-angle-2.png)
 
 ## Extraterrestrial solar radiation
 - Sunlight striking the top of the atmosphere
@@ -276,10 +276,10 @@ Where
 - [Path finder](http://www.solarpathfinder.com/)
 
 ## Path Finder
-![](../figures/solar-pathfinder.jpg)
+![](./figures/solar-pathfinder.jpg)
 
 ##
-![](../figures/sun-path-obstructions.png)
+![](./figures/sun-path-obstructions.png)
 
 <!-- how do we do this as cheaply as possible? -->
 <!-- we want to maximize accuracy and guarantee power but minimize cost of doing it -->
@@ -295,7 +295,7 @@ Where
 - How do we measure it?
 
 ## Measuring solar radiation
-![](../figures/pyranometer.png)
+![](./figures/pyranometer.png)
 
 ## Typical meteorological year
 - Hourly solar and weather estimates for typical conditions
@@ -318,5 +318,5 @@ Where
 - Diffuse
 
 ## Direct, reflected, diffuse
-![](../figures/direct-and-reflected.png)
+![](./figures/direct-and-reflected.png)
 
