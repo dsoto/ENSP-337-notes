@@ -4,35 +4,22 @@ This section covers the fundamentals of solar energy.  From this we can
 determine how much energy is available over an area to be used for heat
 or electricity.
 
-# Solar Angles
+# Motivation
 
-- Elevation
-- Azimuth
-- Relation to architectural features
+To use the sun effectively as a source of energy, we have to know how it
+moves through the sky and what energy is available.  From this knowledge
+we can place photovoltaic panels, building windows, or heat collectors
+correctly.
 
-# Solar Irradiation
-
-- Solar Constant
-- Peak sun hours
-
-# Radiation Basics
-
-- Power per unit area
-- Spectral intensity
-
-<!-- pull notes from ENSP 438 -->
-
-# Mass Glazing Ratio
-
-# References
+## References
 
 - Renewable and Efficient, Gil Masters
 
 ## Questions we will be able to answer
 - Where is the sun at any time?
 - How much radiation does it produce?
-- Where do I put solar panels?
-- Will my solar panels be blocked by trees or homes?
+- Where do I put solar panels or windows?
+- Will my solar devices be blocked by trees or homes?
 - Which direction should they face?
 - How much will they produce now? this month?  this year?
 
@@ -45,6 +32,11 @@ or electricity.
 - When are shadows the longest?
 
 <!-- what does the class know from common experience? -->
+
+# Solar Fundamentals
+
+This section covers the sun, the solar system, and the atmosphere in
+order to understand the radiation striking the earth.
 
 ## The journey of a photon
 - Created in the core of the sun
@@ -168,6 +160,8 @@ $$\sin \phi = \cos \delta \sin H / \cos \beta$$
 - $$\delta$$ is the declination angle
 - $$H$$ is the hour angle
 
+# Practical Elements
+
 ## Sun path diagrams
 - Do we have to calculate these cumbersome formulas anytime we want to find the sun?
 - [Oregon Sun Path](http://solardat.uoregon.edu/SunChartProgram.html)
@@ -215,6 +209,26 @@ Starting with the day, location, and time, calculate the sun position
 
 If weather permits, we'll verify this calculation with a direct
 measurement.
+
+## Solar Angles
+
+- Elevation
+- Azimuth
+- Relation to architectural features
+
+## Solar Irradiation
+
+- Solar Constant
+- Peak sun hours
+
+## Radiation Basics
+
+- Power per unit area
+- Spectral intensity
+
+<!-- pull notes from ENSP 438 -->
+
+## Mass Glazing Ratio
 
 
 
