@@ -282,6 +282,14 @@ Where
 - $$SC = 1367 W/m^2$$
 
 
+## Software Implementation
+
+You can see an example of these equations implemented in a software
+library at these locations
+
+- https://github.com/dsoto/PyPVSim/blob/master/pypvsim/pvsim.py
+- https://github.com/pvlib/pvlib-python
+
 ## Solar Measurements
 - Pyranometers
 
