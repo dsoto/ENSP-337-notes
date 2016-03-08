@@ -21,16 +21,44 @@
 <!-- did we underestimate R effect last time -->
 
 ## Stack Effect
-![](./figures/stack-effect-EFS.pdf)
+![](./figures/stack-effect-EFS.png)
 
 ## Wind Infiltration
-![](./figures/wind-infiltration-EFS.pdf)
+![](./figures/wind-infiltration-EFS.png)
 
 ## Heat capacity of infiltration
-![](./figures/infiltration-equation-EFS.pdf)
+
+Infiltration has an impact on energy required to heat or cool a home.
+The air brought in from the outside must be warmed or cooled to the same
+temperature as the inside air.  This energy adds an extra burden on the
+heating system.
+
+We calculate this by the usual $$ Q = mc \Delta T $$ for a mass of air.
+We can however, convert this to a constant power if we assume that we
+have a constant rate of infiltration.  Imagine that we know the mass of
+air that enters each hour.  Dividing both sides by time gives us a power
+on one side and a mass rate for $$m$$.
+
+$$ Q_{inf} = m_{inf} c_{air} \Delta T $$
+
+$$ \frac{Q_{inf}}{\Delta t} =\frac{ m_{inf}}{\Delta t}c_{air} \Delta T $$
+
+Now we have a rate of infiltration in mass per unit time and a power.
+
+$$ q_{inf} = r_{inf} c_{air} \Delta T $$
+
+In the industry, we express this as air changes per hour ($$n$$) which is
+essentially a rate of mass of air per unit time once we multiply by the
+volume of air in the building and the density of air.
+
+$$ q_{inf} = \rho_{air} c_{air} n V \Delta T $$
+
+Here the temperature difference is between the inside and outside air.
+
+![](./figures/infiltration-equation-EFS.png)
 
 ## Heat Loss
-![](./figures/home-heat-loss-EFS.pdf)
+![](./figures/home-heat-loss-EFS.png)
 
 
 ## Learning Objectives
