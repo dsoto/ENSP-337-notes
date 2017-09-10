@@ -1,4 +1,4 @@
-# Energy, Technology, and Society
+# Thermal Energy Management
 
 * [Introduction](introduction.md)
 * [Computation Fundamentals](computation-fundamentals.md)

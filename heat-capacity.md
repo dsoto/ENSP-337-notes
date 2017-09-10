@@ -81,10 +81,10 @@ Partial list from https://en.wikipedia.org/wiki/Heat_capacity
 
 $$ Q = mc\Delta T $$
 
-- $Q$ is energy transferred to or from substance
-- $m$ is the mass
-- $c$ is the specific heat capacity
-- $\Delta T$ is the temperature change
+- $$Q$$ is energy transferred to or from substance
+- $$m$$ is the mass
+- $$c$$ is the specific heat capacity
+- $$\Delta T$$ is the temperature change
 
 
 ## Relation to Buildings
