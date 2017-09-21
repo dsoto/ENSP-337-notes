@@ -162,7 +162,7 @@ $$
 PV = C_0 +
         \frac{C_1}{1+i} +
         \frac{C_2}{(1+i)^2} +
-        \dots +
+        \cdots +
         \frac{C_N}{(1+i)^N}
 $$
 
