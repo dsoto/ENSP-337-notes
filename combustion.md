@@ -139,4 +139,12 @@ $$\frac{\textrm{1 mole carbon dioxide
              * 44 kg CO2 / 16 kg CH4
              * 0.012 USD/kg CO2 => $0.0735
 
+## Electricity Generation
+
+Electricity is generated through the combustion of coal, natural gas, oil, or diesel.
+Coal and natural gas combustion typically heats water into steam to turn a turbine connected to an electromagnetic generator.
+Diesel electricity generation occurs in an internal combustion engine where the pistons turn a crankshaft that turns the generator.
+
+For the purposes of cost and carbon calculations, we are interested in how much fuel is used to create a unit of electrical energy.
+Generally, energy sources that have low cost and low carbon per unit of electricity are desirable.
 
