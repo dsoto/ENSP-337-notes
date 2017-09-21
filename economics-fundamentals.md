@@ -158,11 +158,13 @@ Single payment
 $$ PV = \frac{C}{(1+i)^n} $$
 
 Stream of payments
-$$ PV = C_0 +
+$$
+PV = C_0 +
         \frac{C_1}{1+i} +
         \frac{C_2}{(1+i)^2} +
         \dots +
-        \frac{C_N}{(1+i)^N}$$
+        \frac{C_N}{(1+i)^N}
+$$
 
 Compact notation
 $$ PV = \sum_{n=0}^{N} \frac{C_n}{(1+i)^n}$$
