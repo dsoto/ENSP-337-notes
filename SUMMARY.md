@@ -11,6 +11,7 @@
     * [Conduction](conduction.md)
     * [Convection](convection.md)
     * [Radiation](radiation.md)
+    * [Circuit Models](circuit-models.md)
     * [Thermodynamics](thermodynamics.md)
     * [Combustion](combustion.md)
 * [Economics Fundamentals](economics-fundamentals.md)
