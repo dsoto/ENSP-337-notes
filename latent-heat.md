@@ -27,4 +27,4 @@ The amount of energy added or removed from material to change phase.
 |           |              |
 |----------|---------------|
 | Evaporation | 2.26 kJ per gram   |
-| Melting     | 334 kJ per gram    |
+| Melting     | 0.334 kJ per gram    |
