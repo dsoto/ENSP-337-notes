@@ -8,6 +8,7 @@
     * [Scientific Notation](scientific-notation.md)
 * [Physics Fundamentals](physics-fundamentals.md)
     * [Heat Capacity](heat-capacity.md)
+    * [Latent Heat](latent-heat.md)
     * [Conduction](conduction.md)
     * [Convection](convection.md)
     * [Radiation](radiation.md)
