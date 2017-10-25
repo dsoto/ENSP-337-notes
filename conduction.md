@@ -92,6 +92,18 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
     - R-34.6 (2x6 R-21 insulation)
 
 
+## Cylindrical Insulator
+![](./figures/cylindrical-resistance.png)
+
+## Spherical Insulator
+![](./figures/spherical-resistance.png)
+
+## Typical UA values
+
+- Residential Home ?
+- Commercial Building ?
+- Cooler ?
+- Down Jacket ?
 
 # Activities
 

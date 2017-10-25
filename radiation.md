@@ -1,5 +1,15 @@
 # Radiation
 
+## Concepts
+- Electromagnetic spectrum
+- Emissivity
+- Absorptivity
+- Spectral response
+- Planck Distribution
+- Planck Law
+- Net Radiative heat transfer
+
+
 
 ## Radiation
 - Why do you think radiant heat is important?
@@ -61,47 +71,20 @@ an ideal black-body emitter.
 ## Spectrum
 ![](./figures/electromagnetic-spectrum.jpg)
 
-
-
-
 ## Net Radiative Heat Transfer
 $$ P = \epsilon \sigma A (T_1^4 - T_2^4) $$
-
-## Cylindrical Insulator
-![](./figures/cylindrical-resistance.png)
-
-## Spherical Insulator
-![](./figures/spherical-resistance.png)
-
-## Radiation transfer between surfaces
-- Why is it colder on clear nights?
 
 ## Radiation transfer between surfaces
 ![](./figures/radiation-transfer.png)
 
-## Latent heat of fusion
-- How much energy does it take to freeze a gram of water?
-- What is the temperature of the water before and after freezing?
+## Radiation transfer between surfaces
+- Why is it colder on clear nights?
 
-## Latent heat of vaporization
-- How much energy does it take to boil a gram of water?
-- What is the temperature of the water before and after boiling?
-
-## Project Design Session
-- What total rate of heat transfer do you need to last 24 hours?
-- What does this mean for you design?
-<!-- open ended design, much like, i want to be warm, build me a home -->
+<!-- ## Project Design Session -->
+<!-- &#45; What total rate of heat transfer do you need to last 24 hours? -->
+<!-- &#45; What does this mean for you design? -->
+<!-- <!&#45;&#45; open ended design, much like, i want to be warm, build me a home &#45;&#45;> -->
 
 
-
-
-## Concepts
-- Electromagnetic spectrum
-- Emissivity
-- Absorptivity
-- Spectral response
-- Planck Distribution
-- Planck Law
-- Net Radiative heat transfer
 
 
