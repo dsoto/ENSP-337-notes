@@ -93,9 +93,17 @@ $$ U_{total} = \left(\frac{1}{U_1} + \frac{1}{U_2}\right)^{-1} $$
 
 
 ## Cylindrical Insulator
+
+Note that this R does not have the same dimensions as R-value.
+It has dimensions of temperature difference per unit power.
+
 ![](./figures/cylindrical-resistance.png)
 
 ## Spherical Insulator
+
+Note that this R does not have the same dimensions as R-value.
+It has dimensions of temperature difference per unit power.
+
 ![](./figures/spherical-resistance.png)
 
 ## Typical UA values
