@@ -7,55 +7,10 @@
 - Heaters and Stoves
 - Cost per joule for gas, heating oil, electricity
 
-## Conduction
-- Heat transfer rates
-- U value, R value
-- Slab conduction
-- Parallel values conduction
-- Insulation, framing stuff
-- Heat transfer by conduction
+## Combustion in Buildings
 
-## Convection
-- Heat capacity of air
-- Infiltration
-- Heat transfer by convection
-
-## Radiation
-- Blackbody
-- Wein's law
-- Emissivity
-- Absorptivity
-- Reflectivity
-- Solar collectors
-- Windows
-- Heat transfer by radiation
-
-## Phase changes
-- latent heat storage
-- wax insulation
-- phase change
-- evaporation
-- condensation
-- freezing
-- melting
-- ice storage
-
-## Zeroth Law of Thermodynamics
-
-## First Law of Thermodynamics
-- furnaces
-
-## Second Law of Thermodynamics
-- Entropy
-- heat pumps
-- refrigerators
-
-
-
-
-
-
-
+Combustion of natural gas is a widespread method of delivering heat to buildings.
+For the purposes of climate change, we want to provide human comfort with the lowest possible emissions of greenhouse gases.
 
 ## Methane Combustion
 
@@ -115,10 +70,18 @@ $$\frac{\textrm{1 mole carbon dioxide
 
 ## Carbon Tax
 
-- currently about 13 USD/tonne CO2 equivalent
-- How much would this change the cost of one therm of natural gas?
+To create a market signal, you have to assign a monetary value to carbon.
+The social cost of carbon calculations attempt to sum the costs created by carbon emissions.
+Carbon taxes or cap and trade programs add a cost to transactions involving carbon.
+
+One question we ask is how much does a carbon tax change the cost of services being delivered.
+
+If a carbon tax is currently about 13 USD/tonne CO2 equivalent, how much would this change the cost of one therm of natural gas?
+How about your monthly gas bill during the winter?
 
 ## Caveat
+
+You need to be careful when you encounter numbers on carbon emissions.
 
 - Some carbon dioxide emissions are listed as the mass of carbon
 - Others are listed as the mass of carbon dioxide
