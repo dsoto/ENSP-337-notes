@@ -4,6 +4,6 @@
     "plugins": [ "katex" ],
     "pluginsConfig": {},
     "theme-default": {
-      "showLevel": false
+      "showLevel": true
     }
 }
