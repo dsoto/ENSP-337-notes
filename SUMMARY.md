@@ -1,5 +1,3 @@
-# Thermal Energy Management
-
 * [Computation Fundamentals](computation-fundamentals.md)
     * [Quantities](quantities.md)
     * [Computation](computation.md)
