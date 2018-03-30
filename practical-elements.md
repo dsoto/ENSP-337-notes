@@ -41,6 +41,13 @@ Recall that we can estimate the heat power for a structure's envelope if we know
 
 $$ q = UA\Delta T $$
 
+We assume for some interval of time $\Delta T$ that the temperature is constant.
+Over that period of time, the energy moving from the inside of the envelope to the outside is
+
+$$ E = UA \Delta T \Delta t $$
+
+
+
 # Reading
 - Energy for Sustainability Chapter 6 Energy Efficiency for Buildings
 - Building Science, Pohl, Chapter 3 and 4
