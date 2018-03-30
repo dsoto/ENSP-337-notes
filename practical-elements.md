@@ -37,6 +37,10 @@ providing any energy from the heating system.
 
 This metric provides a simple way to distill a year's worth of temperature data to a single number that is useful for energy estimations.
 
+Recall that we can estimate the heat power for a structure's envelope if we know the UA value and the temperature difference between the inside and the outside.
+
+$$ q = UA\Delta T $$
+
 # Reading
 - Energy for Sustainability Chapter 6 Energy Efficiency for Buildings
 - Building Science, Pohl, Chapter 3 and 4
