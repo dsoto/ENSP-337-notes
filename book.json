@@ -2,6 +2,6 @@
     "gitbook": ">=2.0.0",
     "title": "Thermal Energy Management",
     "plugins": [ "katex" ,
-                 "gitbook-plugin-section-numbering"],
+                 "numbered-headings"],
     "pluginsConfig": {}
 }
