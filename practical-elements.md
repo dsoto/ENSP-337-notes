@@ -49,11 +49,11 @@ $$ E = UA \Delta T \Delta t $$
 Since outside temperatures change fairly slowly, we can estimate the energy by assuming the temperature is constant over the course of an hour.
 We call each temperature reading $$\Delta T_i$$ and sum over our period of time (often a year).
 
-$$ E_{year} = \Sum_{i=1}^{8760} UA \Delta T_i \Delta t $$
+$$ E_{year} = \sum_{i=1}^{8760} UA \Delta T_i \Delta t $$
 
 Since the UA value doesn't change over time, we can write the UA outside of the sum.
 
-$$ E_{year} = UA \Sum_{i=1}^{8760} \Delta T_i \Delta t $$
+$$ E_{year} = UA \sum_{i=1}^{8760} \Delta T_i \Delta t $$
 
 The quantity in the sum is the degree days.
 Degree days are often tabulated using weather data and assumptions about the inside temperature of a building.
