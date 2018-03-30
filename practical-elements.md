@@ -33,6 +33,10 @@ The balance point tells us what temperature difference the building will
 have between the outside temperature and the inside temperature without
 providing any energy from the heating system.
 
+## Heating Degree Days
+
+This metric provides a simple way to distill a year's worth of temperature data to a single number that is useful for energy estimations.
+
 # Reading
 - Energy for Sustainability Chapter 6 Energy Efficiency for Buildings
 - Building Science, Pohl, Chapter 3 and 4
