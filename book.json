@@ -3,5 +3,9 @@
     "title": "Thermal Energy Management",
     "plugins": [ "katex" ,
                  "numbered-headings"],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    }
 }
