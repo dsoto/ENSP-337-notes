@@ -59,6 +59,12 @@ The quantity in the sum is the degree days.
 Degree days are often tabulated using weather data and assumptions about the inside temperature of a building.
 We can also calculate degree day quantities if our assumptions are significantly different from the usual assumptions.
 
+## Selected UA Values
+
+|                       |              |                  |                 |
+|-----------------------|--------------|------------------|-----------------|
+| 1500 square foot home | 500 BTU/hr/F | 7.7 BTU/sf/day/F | EFS Chapter 6   |
+| ETC walls only        | 150 W/K      |                  | Class Estimates |
 
 
 # Reading
