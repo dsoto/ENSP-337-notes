@@ -11,4 +11,4 @@ $$ SEER = \frac{\textrm{BTU cooling provided}}{\textrm{Watt-hours of electricity
 
 The ratio of electricity required to the heat moved is given by the Heating Seasonal Performance Factor (HSPF).
 
-$$ HSPF = \frac{\textrm{BTU cooling provided}}{\textrm{Watt-hours of electricity expended}} $$
+$$ HSPF = \frac{\textrm{BTU heating provided}}{\textrm{Watt-hours of electricity expended}} $$
