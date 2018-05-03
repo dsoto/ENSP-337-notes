@@ -12,6 +12,7 @@
     * [Circuit Models](circuit-models.md)
     * [Thermodynamics](thermodynamics.md)
     * [Combustion](combustion.md)
+    * [Heat Pumps](heat-pumps.md)
 * [Economics Fundamentals](economics-fundamentals.md)
     * [Time Value of Money](time-value-of-money.md)
     * [Energy Cost Metrics](energy-cost-metrics.md)
