@@ -144,7 +144,8 @@ energy_price.to(u.dollar/u.therm)
 
 # Cost of Conserved Carbon
 
-
+This is a calculated example of the cost of conserved carbon for installing a heat pump water heater.
+It only takes into account the capital cost of the heater and neglects the energy savings.
 
 ```python
 from pint import UnitRegistry
@@ -284,10 +285,4 @@ ccc.to(u.USD / u.metric_ton)
 
 97.42650475341813 USD/metric_ton
 
-
-
-
-```python
-
-```
 
