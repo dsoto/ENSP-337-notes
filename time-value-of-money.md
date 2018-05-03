@@ -1,6 +1,11 @@
 ## Learning Objectives
 
 - Calculate equivalent sums of money using discount rates
+- Able to use the internal rate of return (IRR) to quantify an energy investment
+- Able to use the capital recovery function (CRF) to estimate a loan
+    payment
+- Recognize cost of conserved energy (CCE) and  cost of conserved carbon
+
 
 ## Concepts
 - Time Value of Money
@@ -11,12 +16,9 @@
 - Discount rate
 - Interest rate
 
-
 ## Equivalence principle
-- Given a choice between money now and money later, most demand a larger
-  value at a later date
-- When someone is indifferent between sum 1 now and sum 2 at a fixed
-  later date, the sums are considered equivalent
+- Given a choice between money now and money later, most demand a larger value at a later date
+- When someone is indifferent between sum 1 now and sum 2 at a fixed later date, the sums are considered equivalent
 - This equivalence can be expressed using a discount rate
 
 
@@ -42,32 +44,17 @@ $$ FV = PV (1 + i/12)^{n} $$
 ![Cash Flow Diagram](./figures/cash-flow.png)
 
 
-## NPV Spreadsheet Example
+<!-- ## NPV Spreadsheet Example -->
 <!-- create a net present value calculation -->
 <!-- show by hand and with NPV function -->
 
-- Excel considers first value in the NPV function to be year 1
-
-## Loan Spreadsheet Example
-
-- You can arrive at a loan payment by trial and error in a spreadsheet.
+<!-- &#45; Excel considers first value in the NPV function to be year 1 -->
 
 
 
 
-## Learning Objectives
-
-- Able to use the internal rate of return (IRR) to quantify an energy investment
-- Able to use the capital recovery function (CRF) to estimate a loan
-    payment
-- Recognize cost of conserved energy (CCE) and  cost of conserved carbon
 
 
-## Review
-
-- Discounting
-- Time Value of Money
-- NPV
 
 
 
@@ -77,6 +64,9 @@ $$ FV = PV (1 + i/12)^{n} $$
 - We will look at this on a spreadsheet
 - This doesn't have a closed-form solution
 - Usually solved by a computer
+
+Finding the IRR is the equivalent of asking, here is a loan and payments, what was the interest rate you got?
+
 
 
 # Inflation
@@ -101,31 +91,10 @@ For small inflation rates,
 $$ r_0 \approx r - f $$
 
 
-## CRF Spreadsheet Example
-<!-- show by hand and with PMT function -->
-<!-- compare to calculator online -->
-
-- Excel PMT
-- Excel IRR
-
-
-<!-- ## CRF Scripting Example -->
-<!--  -->
-<!-- &#45; np.pmt() -->
-<!-- &#45; np.irr() -->
-
-
-
-# Future Value
-## Equivalence principle
-- Given a choice between money now and money later, most demand a larger
-  value at a later date
-- When someone is indifferent between sum 1 now and sum 2 at a fixed
-  later date, the sums are considered equivalent
-- This equivalence can be expressed using a discount rate
 
 
 ## Discount Rate and Net Present Value
+
 $$\textrm{Present Value (USD)} =
 \frac
 {\textrm{Future Amount (USD)}}
@@ -151,26 +120,7 @@ Compact notation
 $$ PV = \sum_{n=0}^{N} \frac{C_n}{(1+i)^n}$$
 
 
-## Discount rate vs. Interest rate
 
-- Discount rate usually refers to personal preferences
-- Interest rate is usually a real rate charged by a bank
-
-## Monthly vs. Yearly interest rates
-
-- Many types of loans advertise a yearly interest rate, but charge
-    interest monthly.
-- The yearly interest rate is the APR or annual percentage rate
-- To find the monthly rate divide this by twelve
-- $i$ is the annual percentage rate
-- $n$ is the number of periods in months
-
-$$ FV = PV (1 + i/12)^{n} $$
-
-
-
-## Cash flow diagrams
-![Cash Flow Diagram](./figures/cash-flow.png)
 
 
 ## NPV Spreadsheet Example
@@ -179,22 +129,11 @@ $$ FV = PV (1 + i/12)^{n} $$
 
 - Excel considers first value in the NPV function to be year 1
 
-## Loan Spreadsheet Example
+<!-- ## Loan Spreadsheet Example -->
 
-- You can arrive at a loan payment by trial and error in a spreadsheet.
-
-
+<!-- &#45; You can arrive at a loan payment by trial and error in a spreadsheet. -->
 
 
-# Present Value
-
-# Net Present Value
-
-# Internal Rate of Return
-
-## IRR
-Finding the IRR is the equivalent of asking, here is a loan, what was
-the interest rate you got?
 
 
 # Capital Recovery Function
