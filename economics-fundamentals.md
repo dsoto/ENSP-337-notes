@@ -313,18 +313,16 @@ area / r_value
 
 
 
-# Conserved Cost of Energy
+# Cost of Conserved Energy
 
-The conserved cost of energy is cost of the equivalent purchase of
-energy to a conservation measure.
+The cost of conserved energy is cost of the equivalent purchase of energy to a conservation measure.
 
 This allows us to compare this metric to the cost of energy.
 
 $$ CCE = \frac{\textrm{annual extra investment cost}}{\textrm{annual energy savings}} $$
 
-The key to this is a clear definition of the two scenarios you are
-comparing.  The cost is the difference in cost and the energy is the
-difference in energy between the two scenarios.
+The key to this is a clear definition of the two scenarios you are comparing.
+The cost is the difference in cost and the energy is the difference in energy between the two scenarios.
 
 ## Cost of conserved energy example
 
@@ -374,5 +372,5 @@ energy_price.to(u.dollar/u.therm)
 1.768 dollar/thm
 
 
-
+# Cost of Conserved Carbon
 
