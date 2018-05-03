@@ -13,6 +13,7 @@
     * [Thermodynamics](thermodynamics.md)
     * [Combustion](combustion.md)
 * [Economics Fundamentals](economics-fundamentals.md)
+    * [Time Value of Money](time-value-of-money.md)
     * [Energy Cost Metrics](energy-cost-metrics.md)
 * [Practical Elements](practical-elements.md)
     * [Baselining](baselining.md)
