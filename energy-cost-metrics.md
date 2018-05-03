@@ -143,3 +143,151 @@ energy_price.to(u.dollar/u.therm)
 
 
 # Cost of Conserved Carbon
+
+
+
+```python
+from pint import UnitRegistry
+u = UnitRegistry()
+u.define('USD = []')
+install_cost = 10e3 * u.USD
+UA_value = 1500 * u.BTU / u.hour / u.delta_degF
+degree_days = 6000 * u.delta_degF * u.day
+HSPF = 17 * u.BTU / (u.watt * u.hour)
+# https://www.eia.gov/tools/faqs/faq.php?id=73&t=11
+natural_gas_carbon_intensity = 117 * u.pound / u.MBTU
+carbon_intensity = 405 * u.pound / u.MWh
+# crf of 1 is about a 5% 15 year loan
+CRF = 0.1
+cost_electricity = 0.10 * u.USD / u.kWh
+cost_natural_gas = 1.0 * u.USD / u.therm
+```
+
+
+```python
+# fossil energy required scenario 1
+energy = UA_value * degree_days
+energy.to(u.BTU)
+```
+
+
+
+
+216000000.0 btu
+
+
+
+
+```python
+# carbon emitted per year scenario 1
+carbon_1 = (energy * natural_gas_carbon_intensity).to(u.kg)
+carbon_1
+```
+
+
+
+
+11463.186374640001 kilogram
+
+
+
+
+```python
+# cost of energy
+cost_1 = (energy * cost_natural_gas).to(u.USD)
+cost_1
+```
+
+
+
+
+2160.0000000000005 USD
+
+
+
+
+```python
+# electricity required scenario 2
+electricity = energy / HSPF
+electricity.to(u.kWh)
+```
+
+
+
+
+12705.88235294118 kilowatt_hour
+
+
+
+
+```python
+# electricity cost
+cost_2 = electricity.to(u.kWh) * cost_electricity
+cost_2
+```
+
+
+
+
+1270.588235294118 USD
+
+
+
+
+```python
+# carbon emitted per year scenario 2
+carbon_2 = (electricity * carbon_intensity).to(u.kg)
+carbon_2
+```
+
+
+
+
+2334.1329722117653 kilogram
+
+
+
+
+```python
+yearly_cost = install_cost * CRF
+yearly_cost
+```
+
+
+
+
+1000.0 USD
+
+
+
+
+```python
+# simple payback
+install_cost / (cost_1 - cost_2)
+```
+
+
+
+
+11.243386243386242 dimensionless
+
+
+
+
+```python
+ccc = (cost_1 - cost_2) / (carbon_1 - carbon_2)
+ccc.to(u.USD / u.metric_ton)
+```
+
+
+
+
+97.42650475341813 USD/metric_ton
+
+
+
+
+```python
+
+```
+
