@@ -122,13 +122,15 @@ $$ CCE = 44.20 USD/25.3 MMBTU = 0.17 USD/therm$$
 - 10.1 MMBTU
 - 44.20 USD yearly additional cost over scenario 4
 
-$$ CCE = 44.20 USD / 2.5 MMBTU = 1.77 USD/therm $$
+We are comparing between scenario 5 and scenario 1
 
-```python
-(44.20 * u.dollar / (25.3e6 * u.BTU)).to(u.dollar/u.therm)
-```
+$$ CCE = 176.80 USD / 40.4 MMBTU = 0.44 USD/therm $$
 
-0.17 dollar/thm
+<!-- ```python -->
+<!-- (176.80 * u.dollar / (25.3e6 * u.BTU)).to(u.dollar/u.therm) -->
+<!-- ``` -->
+<!--  -->
+<!-- 0.17 dollar/thm -->
 
 ```python
 energy_price = 1e-5 * u.dollar / u.BTU
