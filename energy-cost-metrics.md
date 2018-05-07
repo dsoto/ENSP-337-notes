@@ -85,6 +85,8 @@ area / r_value
 
 # Cost of Conserved Energy
 
+*Warning, error in this section*
+
 The cost of conserved energy is cost of the equivalent purchase of energy to a conservation measure.
 
 This allows us to compare this metric to the cost of energy.
