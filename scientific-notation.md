@@ -39,6 +39,15 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 
 ## Common Powers
 
+A more complete list can be found here:
+
+[Wikipedia Metric Prefixes](https://en.wikipedia.org/wiki/Metric_prefix)
+
 |     |          |        |
 |-----|----------|--------|
 |kilo | thousand | 10$$^3$$ |
+|mega | million  | 10$$^6$$ |
+|giga | billion  | 10$$^9$$ |
+|tera | trillion | 10$$^12$$ |
+|peta | quadrillion | 10$$^15$$ |
+|exa  | quintillion | 10%%^18$$ |
