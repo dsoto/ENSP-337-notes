@@ -41,4 +41,4 @@ http://cshsyear10maths.global2.vic.edu.au/files/2008/08/standard-form-table.png
 
 |     |          |        |
 |-----|----------|--------|
-|kilo | thousand | 10$^3$ |
+|kilo | thousand | 10$$^3$$ |
