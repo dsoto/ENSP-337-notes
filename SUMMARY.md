@@ -1,3 +1,4 @@
+* [Context and Motivation](context-and-motivation.md)
 * [Computation Fundamentals](computation-fundamentals.md)
     * [Quantities](quantities.md)
     * [Computation](computation.md)
