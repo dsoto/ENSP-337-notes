@@ -78,18 +78,6 @@
     energy
 
 
-## US Commercial Building End Use
-![US Commercial Building End Use](../figures/commercial-end-use-DOE.png)
-
-
-## US Residential Building End Use
-![US Residential End Use](../figures/residential-end-use-DOE.png)
-
-
-## US Buildings
-![Buildings use more primary energy than all of Russia](../figures/RMI-building-energy.jpg)
-
-
 ## Activity
 
 What do you already know about each of these thermal energy concepts?
