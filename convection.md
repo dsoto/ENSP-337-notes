@@ -103,3 +103,58 @@ Here the temperature difference is between the inside and outside air.
 
 
 
+## Rate of increase
+
+If we have a source of energy and assume that all that energy is going
+into an object, we can calculate the rate of temperature rise of that
+object.
+
+
+$$ Q = mc\Delta T $$
+
+We divide both sides by time.
+
+$$ \frac{Q}{t} = \frac{mc\Delta T}{t} $$
+
+Remember that Q is an energy.  That means Q over t is a power.
+
+$$ P = \frac{mc\Delta T}{t} $$
+
+If we rearrange this equation algebraically, we see that
+
+$$ \frac{P}{mc} = \frac{\Delta T}{t} $$
+
+This means that the power divided by the heat capacity gives you an
+estimate of the rate of temperature increase in an object.
+
+# Activity
+
+## Tea Kettle
+- Can we estimate the power of the tea kettle?
+
+```
+volume = 1 liter
+mass_water = 1000 gram
+time = 5 * 60 sec => 300 sec
+heat_capacity = 4.186 joule/gram/kelvin
+temperature_change = 75 kelvin
+
+mass_water * heat_capacity
+* temperature_change / time in watt => 1,046.5 watt
+```
+
+This is very close to our measure value of 1300 watts.
+
+
+## Temperature Rise in the ETC
+
+Can we estimate the increase in the air temperature during a large class
+of students?
+
+What assumptions do we need to make?
+
+We can compare our estimation to the observed temperature rise on our
+temperature sensor.
+
+If these two temperature rates are very different, what plausible
+reasons exist for the difference?
