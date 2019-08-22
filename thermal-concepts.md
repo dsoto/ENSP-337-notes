@@ -1,3 +1,8 @@
+This section will discuss the concepts of
+
+- Temperature
+- Heat Capacity
+
 
 ## Learning Objectives
 
