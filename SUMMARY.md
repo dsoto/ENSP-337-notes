@@ -1,4 +1,6 @@
 * [Context and Motivation](context-and-motivation.md)
+* [Thermal Concepts](thermal-concepts.md)
+    * [Temperature](temperature.md)
 * [Computation Fundamentals](computation-fundamentals.md)
     * [Quantities](quantities.md)
     * [Computation](computation.md)
