@@ -33,3 +33,46 @@ When we rank the energy extracted from the environment that is used in buildings
 ![Buildings use more primary energy than all of Russia](./figures/RMI-building-energy.jpg)
 
 
+
+# Data Sources
+
+What decisions do you want to make?
+What data would support your decision?
+Where can you find data online?
+
+
+What are the best technologies to install in homes?
+
+
+What are the health impacts of energy efficient buildings?
+
+- EPA has programs
+https://www.epa.gov/indoor-air-quality-iaq/health-energy-efficiency-and-climate-change
+
+
+What are the learning impacts of energy efficient classrooms?
+
+
+
+
+What are the best opportunities to save thermal energy at SSU?
+
+- We don't know yet but could get data from energy department.
+- ETS carbon baseline
+- https://docs.google.com/document/d/1T_Fv0jOkPG8En4E_KNcStVU3K3yOcEBnvn7sQXkGtz8/edit#heading=h.purouy79qqme
+
+What are the largest uses of energy in Sonoma County?
+
+- RCPA says transportation followed by buildings
+- https://rcpa.ca.gov/data-and-reports/sonoma-county-greenhouse-gas-inventory/
+
+What is the performance of title 24 buildings versus comparable buildings?
+
+- Looks positive according to CBECS
+- CBECS report shows about a 30-40% reduction
+- https://www.eia.gov/consumption/commercial/data/2018/pdf/green_buildings_cbecs.pdf
+
+
+
+
+
