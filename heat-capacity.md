@@ -76,14 +76,16 @@ In english units
 - specific heat is in BTU/lb/Fahrenheit
 - the temperature difference is in Fahrenheit
 
-# Energy required
+# Energy required for tea
 
 How much energy does it take to make a cup of tea?
 Assume the water starts at 20C and is raised to 95C for a delta T of 75C.
 Further assume that there is 200 ml of water (200 grams).
 
 $$ Q = mc\Delta T $$
+
 $$ Q = 200 grams \cdot 4.18 Joule/gram/kelvin \cdot 75K $$
+
 $$ Q = 63 kJ $$
 
 # Relation to Buildings
