@@ -91,6 +91,7 @@ $$ Q = 63 kJ $$
 # Relation to Buildings
 
 - Thermal mass is added to a building to store heat
+- Cool or warm air is passed through a building to deliver or remove heat.
 
 # Relation to Weather and Climate
 
