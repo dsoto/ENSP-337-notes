@@ -1,6 +1,6 @@
 # Radiation
 
-## Concepts
+# Concepts
 - Electromagnetic spectrum
 - Emissivity
 - Absorptivity
@@ -11,11 +11,31 @@
 
 
 
-## Radiation
+
+# Radiation
 - Why do you think radiant heat is important?
 - Where do you observe radiant heat?
 - What wavelengths are involved?
 
+
+# Thermal radiation
+
+- What wavelengths do we refer to with thermal radiation?
+- Why?
+
+# Using Thermal Radiation
+
+- If we want something to absorb thermal radiation, what properties are necessary?
+- If we want something to shed thermal radiation?
+- What if we want to use sunlight to warm something?
+- What if we want light but not heat?
+
+# Blackbody radiation
+
+- What does the spectrum of radiation look like for the sun?
+    - Which part of this is thermal?
+- What does the spectrum of radiation look like for the earth?
+    - Which part of this is thermal?
 
 <!-- how much heat are we radiating? -->
 <!-- how much heat do we receive from our environments? -->
@@ -24,7 +44,7 @@
 <!-- why are clear nights colder -->
 <!-- what is the background radiation temperature? -->
 
-## Planck's law
+# Planck's law
 
 - How do the wavelengths emitted changes as a substance increases in temperature?
 
@@ -56,6 +76,12 @@ $$ P = A \epsilon \sigma T^4 $$
 
 The emissivity is how much radiant power is emitted by a substance relative to
 an ideal black-body emitter.
+
+If we have two objects with the same surface area and temperature, the object with the higher emissivity emits more radiation.
+
+# Absorptivity
+
+Kirchoff's Law of thermal radiation states that a body in thermodynamic equilibrium, the absorptivity and emissivity are equal.
 
 ## Emissive Power
 ![](./figures/Emissive_Power.png)
