@@ -32,7 +32,17 @@ When we rank the energy extracted from the environment that is used in buildings
 
 ![Buildings use more primary energy than all of Russia](./figures/RMI-building-energy.jpg)
 
+# Videos
 
+These three videos illustrate different aspects and benefits of work to reduce the energy required to deliver thermal services.
+
+- [Sustainable Brewery](https://www.youtube.com/watch?v=Qv8gMuSVhvI)
+- [ACEEE Efficiency Building Workers](https://www.youtube.com/watch?v=kLAp-69X4C4)
+- [ACEEE West Virgina](https://www.youtube.com/watch?v=kHmxO9qS8U4)
+
+What thermal physical models did you see illustrated?
+What technologies, programs, or policies do you see?
+What benefits do you see?
 
 # Data Sources
 
