@@ -50,9 +50,7 @@ What decisions do you want to make?
 What data would support your decision?
 Where can you find data online?
 
-
 What are the best technologies to install in homes?
-
 
 What are the health impacts of energy efficient buildings?
 
@@ -61,6 +59,8 @@ https://www.epa.gov/indoor-air-quality-iaq/health-energy-efficiency-and-climate-
 
 
 What are the learning impacts of energy efficient classrooms?
+
+- [Facilities and Academic Outcomes](https://files.eric.ed.gov/fulltext/ED470979.pdf)
 
 
 
