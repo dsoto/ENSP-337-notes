@@ -20,6 +20,11 @@
 - When someone is indifferent between sum 1 now and sum 2 at a fixed later date, the sums are considered equivalent
 - This equivalence can be expressed using a discount rate
 
+## Equivalence principle as unit conversion
+
+- You can think of using the discount rate as a unit conversion where you have units of dollars now and units of dollars in the future
+- The equals sign in this case signifies the indifference of a consumer or an investor.
+- However, our unit conversion is based on a more complicated model than a usual unit conversion.
 
 ## Discount rate vs. Interest rate
 
