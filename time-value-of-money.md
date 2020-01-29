@@ -4,7 +4,6 @@
 - Able to use the internal rate of return (IRR) to quantify an energy investment
 - Able to use the capital recovery function (CRF) to estimate a loan
     payment
-- Recognize cost of conserved energy (CCE) and  cost of conserved carbon
 
 
 ## Concepts
@@ -26,6 +25,17 @@
 
 - Discount rate usually refers to personal preferences
 - Interest rate is usually a real rate charged by a bank
+
+## Mathematical Model
+
+In both the case of a discount rate and an interest rate, we use an exponential model.
+Our inflation calculations that assume a constant inflation rate also use an exponential model.
+
+There is some controversy over the use of this discount rate model in climate change discussions.
+
+David Roberts has an
+[entertaining article](https://grist.org/article/discount-rates-a-boring-thing-you-should-know-about-with-otters/)
+on this topic.
 
 ## Monthly vs. Yearly interest rates
 

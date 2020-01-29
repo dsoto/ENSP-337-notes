@@ -1,3 +1,14 @@
+# Learning Objectives
+
+- Combine financial and energy quantities to create metrics usef for energy decisions.
+
+# Energy Metrics
+
+- Payback period
+- Cost of Conserved Energy
+- Cost of Conserved Carbon
+- Economic Thickness of Insulation
+
 # Economic Thickness of Insulation
 
 If we consider both the annual cost of insulation and the annual cost of
