@@ -26,6 +26,13 @@
 - The key observables in thermal systems are temperature, power, and time.
 - When graphed, the slopes and areas of these variables can provide important insight into building operation.
 
+## Analytical Models
+
+- For simple situations, we can write models using mathematical functions like the exponential function that describe building behavior.
+
+## Computational Models
+
+- For many physical situations, we start with a relationship for the slope of a curve and then use computational techniques to predict behavior.
 
 
 ## Data Collection Devices
