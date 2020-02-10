@@ -1,21 +1,34 @@
 # Energy Modeling
 
-## Data
+## Modeling and Performance
 
-- Traditionally, field has focused on building design
-- We are now paying more attention to building operation
-- This requires ways to observe and analyze data
+- Code allows buildings to pass compliance for following a set of rules (prescriptive approach)
+- Many predict an emphasis on building operation in the future
+- This requires ways to observe and analyze data and make predctions
 
-## Forward Models
+## Forward Models or Bottom-Up Models
 
-- Estimate the UA product from the measurements and ideal thermal
-    conductivities
+- These models use measurements and properties of an object to make predictions about its behavior.
+- Example: Estimate the UA product from the measurements and ideal thermal conductivities
 
-## Data Driven Models
+## Backwards Models or Top-Down Models
 
-- Estimate the UA product from the equilibrium temperature
+- These models infer the properties of an object from observations of the objects behavior.
+- Example: Estimate the UA product from the equilibrium temperature and the power input
 
-## Data Examples
+## Intrusive and Non-Intrusive Data Collection
+
+- Intrusive data collection requires changing the operating condition of the building, often in ways noticeable to the occupants.
+- Non-intrusive data collection does not change the operation of a building.
+
+## Slopes and Areas
+
+- The key observables in thermal systems are temperature, power, and time.
+- When graphed, the slopes and areas of these variables can provide important insight into building operation.
+
+
+
+## Data Collection Devices
 
 - NetAtmo
 - Digit
