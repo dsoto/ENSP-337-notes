@@ -34,31 +34,22 @@
 
 - For many physical situations, we start with a relationship for the slope of a curve and then use computational techniques to predict behavior.
 
+## Setting Equalities
 
-## Data Collection Devices
-
-- NetAtmo
-- Digit
-
-## Box Model
-
-- Simple cardboard box with heater
-- What do we expect the temperature rise to be?
-- Draw a graph in your notes with your basic prediction
-- We will take data and compare to our predictions
+- Equalities are an indispensible tool for analysis
+- We frequently use energy balance or setting energy quantities equal to generate useful equations
+- What quantity are you setting equal?  (Energy, Temperature, Time?)
+- What are the different ways you are expressing that quantity in your equation?  
 
 
-## Tree Discussion
+# Computational Model
 
-- How do we decompose complex problems?
-- Tree technique following Mahajan
+## Energy Balance
 
-## Review
+- First Law of Thermodynamics must be obeyed
+- Where is the thermal energy in our system?
 
-- What did we do last time?
-- Calculated the heat loss coefficient of our box by two methods
-- Method one: observation of equilibrium temperature
-- Method two: estimation from measurements and ideal R-values
+![](./figures/energy-balance.jpg)
 
 ## Warm-Up
 
@@ -75,13 +66,6 @@
 ![](./figures/speed-distance.jpg)
 
 ![](./figures/distance-difference.jpg)
-
-## Energy Balance
-
-- First Law of Thermodynamics must be obeyed
-- Where is the thermal energy in our system?
-
-![](./figures/energy-balance.jpg)
 
 ## Diagram
 
