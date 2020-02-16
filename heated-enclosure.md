@@ -47,15 +47,15 @@ If we know the initial temperature, the power, and the $$UA$$ and the $$mc$$ val
 - Graph total milage vs time
 - Graph speed vs time
 
-![](./figures/speed-distance.jpg)
+<!-- ![](./figures/speed-distance.jpg) -->
 
-![](./figures/distance-difference.jpg)
+<!-- ![](./figures/distance-difference.jpg) -->
 
-## Discrete solution for heater enclosure
+<!-- ## Discrete solution for heater enclosure -->
 
-![](./figures/difference-equations.jpg)
+<!-- ![](./figures/difference-equations.jpg) -->
 
-![](./figures/temperature-rise.png)
+<!-- ![](./figures/temperature-rise.png) -->
 
 
 
