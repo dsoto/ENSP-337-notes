@@ -6,8 +6,13 @@ In this section, we demonstrate an analytical model and discrete model for a hea
 
 Our goal is to get an equation relating the change in temperature over time to the existing temperature and the power supplied to the box.
 We start using an energy balance technique where we set the energy entering the system from a heater to the sum of the stored temperature energy and the energy conducting to the outside.
+Since energy must be conserved, we can track the thermal energy.
+
+![](./figures/energy-balance.jpg)
 
 We call our small amount of time $$\Delta t$$ and the small increase in the temperature of the box $$\Delta T$$.
+
+$$ E_{in} = E_{out} $$
 
 The power $$P$$ multiplied by $$\Delta t$$ is the energy entering the system.
 $$mc \Delta T$$ is the energy associated with the change in temperature during this time.
@@ -32,6 +37,28 @@ This matches our idea of steady state.
 # Discrete Solution
 
 If we know the initial temperature, the power, and the $$UA$$ and the $$mc$$ values, we can use a computer to repeatedly calculate the temperature a short moment later and predict the behavior of the enclosure over time.
+
+## Discrete solution warmup exercise
+
+- You are in a car with a watch and a clear view of the spedometer but the odometer is broken
+- How do you estimate how far you have traveled?
+
+- How would you think about this graphically
+- Graph total milage vs time
+- Graph speed vs time
+
+![](./figures/speed-distance.jpg)
+
+![](./figures/distance-difference.jpg)
+
+## Discrete solution for heater enclosure
+
+![](./figures/difference-equations.jpg)
+
+![](./figures/temperature-rise.png)
+
+
+
 
 # Analytical Model
 

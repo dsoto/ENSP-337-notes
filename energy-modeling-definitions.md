@@ -39,54 +39,34 @@
 - Equalities are an indispensible tool for analysis
 - We frequently use energy balance or setting energy quantities equal to generate useful equations
 - What quantity are you setting equal?  (Energy, Temperature, Time?)
-- What are the different ways you are expressing that quantity in your equation?  
+- What are the different ways you are expressing that quantity in your equation?
 
+# Baselines
 
-# Computational Model
+Buildings often use more energy than what the architect expects.
+This is due to many factors including human behavior and the way the building was actually constructed.
 
-## Energy Balance
+The practice of measuring the performance of a building over time is often called "baselining" of a building.
 
-- First Law of Thermodynamics must be obeyed
-- Where is the thermal energy in our system?
+# Gathering data
 
-![](./figures/energy-balance.jpg)
+- Cumulative vs incremental readings
 
-## Warm-Up
+# Analyzing data
 
-- You are in a car with a watch and a clear view of the spedometer but
-    the odometer is broken
-- How do you estimate how far you have traveled?
+- How do you move from a cumulative reading to an incremental reading?
+- Spedometer vs Odometer
+- Discrete differences on the computer
 
-## Draw a diagram
+# Comparing performance
 
-- How would you think about this graphically
-- Graph total milage vs time
-- Graph speed vs time
+- How do you compare to previous performance
+- How do you account for differences in the weather
+- For differences in occupancy?
+- What do linear multivariate regression models look like?
 
-![](./figures/speed-distance.jpg)
+# Predicting Energy Use
 
-![](./figures/distance-difference.jpg)
-
-## Diagram
-
-- Where are the thermal energy inputs and outputs in our system?
-
-## Mathematical model
-
-- Start by setting the energies equal to each other
-
-$$ E_{in} = E_{out} $$
-
-- Then add heat loss equation and thermal mass equation
-- Can you solve to find the temperature?
-
-![](./figures/difference-equations.jpg)
-
-![](./figures/temperature-rise.png)
-
-
-## Written notes
-
-There are many notes from the board today necessary to understand the
-lecture.
-
+- How much energy do you expect a building to use?
+- What depends on the design of the building?
+- What depends on the behavior of the occupants?
