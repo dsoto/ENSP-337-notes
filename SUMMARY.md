@@ -11,7 +11,6 @@
 * [Modeling](modeling.md)
     * [Energy Modeling Definitions](energy-modeling-definitions.md)
     * [Heated Enclosure](heated-enclosure.md)
-    * [Baselining](baselining.md)
     * [Computation](computation.md)
     * [Computation Fundamentals](computation-fundamentals.md)
     * [Circuit Models](circuit-models.md)
