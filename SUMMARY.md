@@ -26,6 +26,8 @@
     * [Passive Design Elements](passive-design-elements.md)
     * [Thermal Mass](thermal-mass.md)
 * [Solar Energy](solar-energy.md)
+    * [Solar Angles](solar-angles.md)
+    * [Solar Energy Estimations](solar-energy-estimations.md)
 * [Physics Fundamentals and Miscellaneous](physics-fundamentals.md)
     * [Combustion](combustion.md)
     * [Efficiency Elements](efficiency-elements.md)
