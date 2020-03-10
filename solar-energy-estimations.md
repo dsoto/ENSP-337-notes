@@ -4,11 +4,48 @@
 
 - Direct Insolation
 - Diffuse Insolation
+- Global Insolation
 - Horizontal
 - Vertical
-- Peak Insolation
+- Incident Radiation
+- Transmitted Radiation
+
+<!-- - Peak Insolation
 - Peak Sun Hours
-- Insolation Units
+- Insolation Units -->
+
+## Direct Insolation
+
+Radiation from direct sunlight.
+
+## Diffuse Insolation
+
+Radiation from reflected sunlight from either the ground or the sky.
+
+## Global Insolation
+
+Total radiation on a surface including direct and diffuse sources.
+
+## Horizontal Insolation
+
+This is the insolation on a surface parallel to the ground.
+
+## Vertical Insolation
+
+This is the insolation on a vertical surface, like a window.
+
+## Incident Radiation
+
+For a window, this is the radiation striking the outside surface.
+
+## Transmitted Radiation
+
+For a window, this is the radiation that is transmitted by the window into the interior space without being reflected or absorbed.
+
+## Insolation Units and Dimensions
+
+Insolation is usually reported in power or energy per area.
+
 
 # Sources
 
