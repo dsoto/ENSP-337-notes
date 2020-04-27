@@ -58,8 +58,8 @@ For the purposes of climate change, we want to provide human comfort with the lo
 
 - One mole of methane burned equals one mole of CO~2~ released
 - Conversion factor:
-$$\frac{\textrm{1 mole carbon dioxide
-    released}}{\textrm{1 mole methane burned}}$$
+
+$$\frac{\textrm{1 mole carbon dioxide released}}{\textrm{1 mole methane burned}}$$
 
 
 # Mass Conversion
